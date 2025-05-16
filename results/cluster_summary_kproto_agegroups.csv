@@ -1,0 +1,9 @@
+Age_Group,kproto_cluster,Age,Gender,Location,Education,Diploma,Training,e_15_9,Satisfaction,Job_Search
+15–24,2,20.5,"Male (70.2%), Female (29.8%)","Rural (57.1%), Urban (42.9%)",Lower Secondary,DEUG/DUT/BTS,Certifiante,14.2,Moyennement satisfait,No
+15–24,4,21.0,"Female (66.7%), Male (33.3%)","Urban (62.5%), Rural (37.5%)",Primary 2,DEUG/DUT/BTS,Unknown,0.8,Moyennement satisfait,No
+15–24,5,20.9,Male (100.0%),"Urban (53.3%), Rural (46.7%)",Lower Secondary,DEUG/DUT/BTS,Unknown,9832.4,Moyennement satisfait,No
+25–35,1,33.1,"Male (80.0%), Female (20.0%)","Urban (88.0%), Rural (12.0%)",Lower Secondary,BEPC/BEFM,Diplômante,1.1,Moyennement satisfait,No
+25–35,2,27.6,"Male (81.8%), Female (18.2%)","Rural (81.8%), Urban (18.2%)",Lower Secondary,DEUG/DUT/BTS,Diplômante,1.6,Moyennement satisfait,No
+25–35,3,32.3,Male (100.0%),Rural (100.0%),Primary 2,CEPE/CFEE,Diplômante,2.9,Moyennement satisfait,No
+25–35,4,29.8,"Female (64.3%), Male (35.7%)","Urban (73.6%), Rural (26.4%)",Primary 2,BEPC/BEFM,Diplômante,9.3,Moyennement satisfait,No
+25–35,5,30.2,"Male (71.4%), Female (28.6%)","Urban (60.7%), Rural (39.3%)",Higher General,BEPC/BEFM,Diplômante,9999.0,Moyennement satisfait,No

@@ -1,0 +1,4 @@
+cluster,Age,InternetSpending,Satisfaction,JobSearch,Gender,Location,Education,Diploma,Training
+0,33.71153846153846,579.8461538461538,Moyennement satisfait,Yes,"Masculin (59.6%), Féminin (40.4%)","urbain (67.3%), rural (32.7%)",Primaire 2 (CE2 - CM2),Aucun,Non aucune
+1,37.725,1480.685,Moyennement satisfait,No,"Masculin (66.0%), Féminin (34.0%)","urbain (63.2%), rural (36.8%)",Secondaire 1er  cycle général (Niveau 6ième-3ième),CEPE/CFEE,Non aucune
+2,39.82857142857143,1104.5194805194806,Moyennement satisfait,No,"Masculin (57.1%), Féminin (42.9%)","urbain (51.9%), rural (48.1%)",Primaire 2 (CE2 - CM2),Aucun,Non aucune

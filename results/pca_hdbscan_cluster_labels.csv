@@ -1,0 +1,838 @@
+b4,b3,milieu,b33,b36,b38,e_15_9,e21,e23,cluster,Age,Gender,Location,Education,Diploma,Training,Satisfaction,Job_Search,kproto_cluster,pca_hdbscan_cluster
+43,1,1,1,0,0,9999.0,2,0,2,43,Male,Urban,Primary 2,,,Moyennement satisfait,No,5,-1
+65,1,1,2,4,0,9999.0,0,0,2,65,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Très insatisfait,No,5,-1
+25,1,0,1,0,0,0.0,1,0,3,25,Male,Rural,Primary 2,,,Plutôt insatisfait,No,2,1
+28,1,1,1,4,0,0.0,2,0,1,28,Male,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,4,2
+31,0,1,4,2,0,0.0,2,0,4,31,Female,Urban,Higher General,BEPC/BEFM,,Moyennement satisfait,No,4,-1
+65,1,1,2,4,0,0.0,2,0,1,65,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,0,-1
+56,1,0,1,4,3,5.0,2,0,3,56,Male,Rural,Primary 2,DEUG/DUT/BTS,Diplômante,Moyennement satisfait,No,0,-1
+21,1,0,1,0,0,0.0,2,0,3,21,Male,Rural,Primary 2,,,Moyennement satisfait,No,2,1
+15,0,1,2,4,0,5.0,3,0,4,15,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Satisfait,No,2,-1
+24,1,1,1,0,0,3.0,2,0,1,24,Male,Urban,Primary 2,,,Moyennement satisfait,No,4,2
+58,0,1,4,2,2,0.0,3,0,4,58,Female,Urban,Higher General,BEPC/BEFM,Certifiante,Satisfait,No,0,-1
+48,1,1,1,0,0,5.0,1,1,0,48,Male,Urban,Primary 2,,,Plutôt insatisfait,Yes,0,-1
+20,0,0,2,4,0,5.0,3,0,3,20,Female,Rural,Lower Secondary,DEUG/DUT/BTS,,Satisfait,No,2,-1
+39,0,0,1,0,0,0.0,1,0,3,39,Female,Rural,Primary 2,,,Plutôt insatisfait,No,3,0
+30,1,1,2,2,0,0.0,2,0,1,30,Male,Urban,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,No,1,2
+24,1,1,1,0,0,0.0,2,1,0,24,Male,Urban,Primary 2,,,Moyennement satisfait,Yes,4,-1
+30,0,0,1,0,0,0.0,2,0,3,30,Female,Rural,Primary 2,,,Moyennement satisfait,No,4,0
+20,0,0,1,0,0,0.0,2,0,3,20,Female,Rural,Primary 2,,,Moyennement satisfait,No,4,-1
+30,1,1,6,9,0,0.0,3,0,1,30,Male,Urban,Higher Technical,CAP,,Satisfait,No,4,-1
+22,1,0,2,4,0,0.0,2,0,3,22,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+49,0,1,1,0,0,9999.0,3,0,2,49,Female,Urban,Primary 2,,,Satisfait,No,5,-1
+36,0,1,1,0,0,0.0,0,0,4,36,Female,Urban,Primary 2,,,Très insatisfait,No,4,-1
+58,1,1,4,2,2,0.0,2,0,1,58,Male,Urban,Higher General,BEPC/BEFM,Certifiante,Moyennement satisfait,No,0,-1
+19,1,0,6,1,0,7500.0,2,0,2,19,Male,Rural,Higher Technical,CEPE/CFEE,,Moyennement satisfait,No,5,-1
+25,0,1,1,0,0,0.0,2,1,0,25,Female,Urban,Primary 2,,,Moyennement satisfait,Yes,4,-1
+60,1,0,2,4,2,1.0,2,0,3,60,Male,Rural,Lower Secondary,DEUG/DUT/BTS,Certifiante,Moyennement satisfait,No,0,-1
+28,1,1,3,3,2,0.0,3,0,1,28,Male,Urban,Upper Secondary,BAC/DT/BT,Certifiante,Satisfait,No,4,-1
+52,1,0,1,0,0,0.0,1,0,3,52,Male,Rural,Primary 2,,,Plutôt insatisfait,No,3,1
+56,0,1,2,4,0,0.0,3,0,4,56,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Satisfait,No,0,-1
+31,1,0,1,0,0,2.0,1,0,3,31,Male,Rural,Primary 2,,,Plutôt insatisfait,No,3,1
+52,1,1,2,4,0,9999.0,2,0,2,52,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,5,-1
+27,1,0,1,4,0,0.0,3,0,3,27,Male,Rural,Primary 2,DEUG/DUT/BTS,,Satisfait,No,2,-1
+41,1,0,1,4,0,4.0,2,0,3,41,Male,Rural,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,3,1
+48,0,1,2,2,0,0.0,2,0,4,48,Female,Urban,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,No,1,-1
+40,1,1,4,2,0,5.0,4,0,1,40,Male,Urban,Higher General,BEPC/BEFM,,Très satisfait,No,1,-1
+39,0,1,2,4,0,0.0,2,0,4,39,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,0
+30,1,1,2,4,0,0.0,0,0,1,30,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Très insatisfait,No,1,-1
+42,0,1,1,0,0,1.0,2,0,4,42,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+47,1,0,1,0,0,0.0,1,0,3,47,Male,Rural,Primary 2,,,Plutôt insatisfait,No,3,1
+45,1,1,1,0,0,0.0,3,0,1,45,Male,Urban,Primary 2,,,Satisfait,No,3,-1
+24,1,1,1,0,0,0.0,2,0,1,24,Male,Urban,Primary 2,,,Moyennement satisfait,No,4,2
+50,0,0,1,0,0,0.0,1,0,4,50,Female,Rural,Primary 2,,,Plutôt insatisfait,No,3,-1
+55,1,0,1,0,0,9999.0,2,0,2,55,Male,Rural,Primary 2,,,Moyennement satisfait,No,5,-1
+25,1,0,1,4,0,0.0,3,0,3,25,Male,Rural,Primary 2,DEUG/DUT/BTS,,Satisfait,No,2,-1
+50,1,1,2,4,3,0.0,2,0,1,50,Male,Urban,Lower Secondary,DEUG/DUT/BTS,Diplômante,Moyennement satisfait,No,1,-1
+64,1,0,1,4,0,2.0,2,0,3,64,Male,Rural,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,0,-1
+30,1,1,7,5,2,0.0,3,1,0,30,Male,Urban,,Licence,Certifiante,Satisfait,Yes,4,-1
+23,1,0,1,4,0,9999.0,2,0,2,23,Male,Rural,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,5,-1
+32,1,1,4,2,3,5.0,3,0,1,32,Male,Urban,Higher General,BEPC/BEFM,Diplômante,Satisfait,No,1,-1
+21,1,1,2,2,3,12.0,3,0,1,21,Male,Urban,Lower Secondary,BEPC/BEFM,Diplômante,Satisfait,No,2,-1
+42,0,1,1,4,0,0.0,2,0,4,42,Female,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,1,0
+20,0,1,2,4,2,0.0,1,0,4,20,Female,Urban,Lower Secondary,DEUG/DUT/BTS,Certifiante,Plutôt insatisfait,No,2,-1
+25,0,0,1,0,0,0.0,3,0,3,25,Female,Rural,Primary 2,,,Satisfait,No,4,-1
+43,0,1,1,0,0,0.0,2,0,4,43,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+48,1,0,1,0,0,9999.0,0,0,2,48,Male,Rural,Primary 2,,,Très insatisfait,No,5,-1
+50,0,1,6,1,1,10.0,2,0,4,50,Female,Urban,Higher Technical,CEPE/CFEE,On-the-job,Moyennement satisfait,No,0,-1
+60,0,1,1,4,0,0.0,2,0,4,60,Female,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,0,-1
+30,0,0,1,0,0,0.0,2,0,3,30,Female,Rural,Primary 2,,,Moyennement satisfait,No,4,0
+43,1,1,1,0,1,0.0,2,0,1,43,Male,Urban,Primary 2,,On-the-job,Moyennement satisfait,No,3,2
+27,1,0,3,2,1,5.0,2,1,0,27,Male,Rural,Upper Secondary,BEPC/BEFM,On-the-job,Moyennement satisfait,Yes,2,-1
+30,1,1,4,1,0,1.0,2,0,1,30,Male,Urban,Higher General,CEPE/CFEE,,Moyennement satisfait,No,4,-1
+30,1,0,2,4,0,5.0,2,0,3,30,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,1
+44,1,1,1,4,0,0.0,2,0,1,44,Male,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,1,2
+40,0,0,2,4,0,5.0,2,0,3,40,Female,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,-1
+41,1,1,2,4,0,0.0,2,0,1,41,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,2
+23,1,1,2,0,0,0.0,2,0,1,23,Male,Urban,Lower Secondary,,,Moyennement satisfait,No,2,2
+50,1,1,2,2,0,9999.0,2,0,2,50,Male,Urban,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,No,5,-1
+44,1,0,4,2,3,25.0,2,0,3,44,Male,Rural,Higher General,BEPC/BEFM,Diplômante,Moyennement satisfait,No,3,-1
+36,1,0,1,0,0,0.0,2,0,3,36,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+18,0,0,2,4,0,0.0,2,0,3,18,Female,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+19,0,1,2,4,0,0.0,1,0,4,19,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Plutôt insatisfait,No,2,-1
+50,1,1,1,0,0,25.0,2,0,1,50,Male,Urban,Primary 2,,,Moyennement satisfait,No,0,2
+44,1,1,1,4,0,0.0,2,0,1,44,Male,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,1,2
+52,1,0,2,4,0,20.0,3,0,3,52,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Satisfait,No,1,-1
+27,1,1,2,2,2,0.0,2,0,1,27,Male,Urban,Lower Secondary,BEPC/BEFM,Certifiante,Moyennement satisfait,No,2,-1
+35,0,0,2,4,0,0.0,2,0,3,35,Female,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,-1
+55,1,1,2,4,0,0.0,2,0,1,55,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,0,2
+19,0,1,1,4,0,2.0,3,1,0,19,Female,Urban,Primary 2,DEUG/DUT/BTS,,Satisfait,Yes,4,-1
+65,1,1,1,0,0,0.0,2,0,1,65,Male,Urban,Primary 2,,,Moyennement satisfait,No,0,2
+23,1,0,1,0,0,0.0,2,0,3,23,Male,Rural,Primary 2,,,Moyennement satisfait,No,2,1
+22,1,0,1,0,0,0.0,2,1,0,22,Male,Rural,Primary 2,,,Moyennement satisfait,Yes,2,-1
+45,0,1,1,4,0,15.0,2,1,0,45,Female,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,Yes,1,-1
+42,0,1,6,1,1,0.0,2,0,4,42,Female,Urban,Higher Technical,CEPE/CFEE,On-the-job,Moyennement satisfait,No,1,-1
+24,1,0,2,4,0,9999.0,0,0,2,24,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Très insatisfait,No,5,-1
+36,0,1,1,0,0,6.0,3,0,4,36,Female,Urban,Primary 2,,,Satisfait,No,4,-1
+62,0,1,1,0,0,0.0,2,0,4,62,Female,Urban,Primary 2,,,Moyennement satisfait,No,0,0
+40,0,1,6,7,0,0.0,1,0,4,40,Female,Urban,Higher Technical,Master/DESS/DEA,,Plutôt insatisfait,No,1,0
+69,1,0,1,4,0,0.0,2,0,3,69,Male,Rural,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,0,-1
+49,0,1,1,0,0,0.0,2,0,4,49,Female,Urban,Primary 2,,,Moyennement satisfait,No,0,0
+17,1,0,1,0,0,0.0,2,0,3,17,Male,Rural,Primary 2,,,Moyennement satisfait,No,2,1
+24,1,0,1,0,0,0.0,2,0,3,24,Male,Rural,Primary 2,,,Moyennement satisfait,No,2,1
+58,1,1,1,0,0,0.0,2,0,1,58,Male,Urban,Primary 2,,,Moyennement satisfait,No,0,2
+22,0,1,2,4,0,0.0,1,0,4,22,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Plutôt insatisfait,No,2,-1
+41,1,1,2,4,0,9999.0,1,0,2,41,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Plutôt insatisfait,No,5,-1
+49,0,0,1,0,0,9999.0,0,0,2,49,Female,Rural,Primary 2,,,Très insatisfait,No,5,-1
+28,1,1,6,7,1,0.0,2,0,1,28,Male,Urban,Higher Technical,Master/DESS/DEA,On-the-job,Moyennement satisfait,No,4,2
+47,1,0,1,0,0,20.0,2,0,3,47,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+48,0,0,1,0,0,0.0,2,0,4,48,Female,Rural,Primary 2,,,Moyennement satisfait,No,3,-1
+16,0,1,1,0,0,0.0,2,0,4,16,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,-1
+28,1,1,4,2,0,0.0,2,0,1,28,Male,Urban,Higher General,BEPC/BEFM,,Moyennement satisfait,No,4,-1
+48,1,1,1,0,0,0.0,2,0,1,48,Male,Urban,Primary 2,,,Moyennement satisfait,No,0,2
+67,1,1,2,4,0,0.0,3,0,1,67,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Satisfait,No,0,-1
+27,0,1,1,0,2,0.0,2,0,4,27,Female,Urban,Primary 2,,Certifiante,Moyennement satisfait,No,4,-1
+35,1,1,1,0,3,2.0,2,1,0,35,Male,Urban,Primary 2,,Diplômante,Moyennement satisfait,Yes,4,-1
+43,1,1,2,4,0,0.0,2,0,1,43,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,2
+38,0,1,1,0,0,0.0,2,0,4,38,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+44,1,0,2,4,2,0.0,2,0,3,44,Male,Rural,Lower Secondary,DEUG/DUT/BTS,Certifiante,Moyennement satisfait,No,1,-1
+38,1,1,2,4,0,0.0,2,0,1,38,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,2
+12,1,0,0,0,3,0.0,2,0,3,12,Male,Rural,Primary 1,,Diplômante,Moyennement satisfait,No,2,-1
+40,1,1,2,4,2,0.0,2,0,1,40,Male,Urban,Lower Secondary,DEUG/DUT/BTS,Certifiante,Moyennement satisfait,No,1,-1
+44,1,0,1,0,3,0.0,2,0,3,44,Male,Rural,Primary 2,,Diplômante,Moyennement satisfait,No,3,-1
+15,1,1,0,0,0,0.0,2,0,1,15,Male,Urban,Primary 1,,,Moyennement satisfait,No,2,-1
+38,0,1,1,4,0,6.0,2,0,4,38,Female,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,4,0
+40,0,1,2,2,0,0.0,0,0,4,40,Female,Urban,Lower Secondary,BEPC/BEFM,,Très insatisfait,No,1,-1
+65,0,0,1,0,0,0.0,2,0,4,65,Female,Rural,Primary 2,,,Moyennement satisfait,No,0,-1
+28,1,0,1,4,0,0.0,0,0,3,28,Male,Rural,Primary 2,DEUG/DUT/BTS,,Très insatisfait,No,2,-1
+60,1,1,1,0,0,0.0,2,0,1,60,Male,Urban,Primary 2,,,Moyennement satisfait,No,0,2
+29,1,1,2,2,0,9999.0,2,0,2,29,Male,Urban,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,No,5,-1
+44,0,1,0,0,0,0.0,2,0,4,44,Female,Urban,Primary 1,,,Moyennement satisfait,No,3,0
+47,0,0,1,0,3,2.0,3,0,4,47,Female,Rural,Primary 2,,Diplômante,Satisfait,No,3,-1
+27,1,0,1,0,0,0.0,2,0,3,27,Male,Rural,Primary 2,,,Moyennement satisfait,No,4,1
+35,1,1,1,4,3,0.0,2,0,1,35,Male,Urban,Primary 2,DEUG/DUT/BTS,Diplômante,Moyennement satisfait,No,1,-1
+39,1,1,1,0,0,0.0,3,1,0,39,Male,Urban,Primary 2,,,Satisfait,Yes,3,-1
+44,1,1,1,0,0,2.0,2,0,1,44,Male,Urban,Primary 2,,,Moyennement satisfait,No,3,2
+30,1,0,1,0,3,0.0,2,0,3,30,Male,Rural,Primary 2,,Diplômante,Moyennement satisfait,No,3,-1
+32,0,1,0,0,3,0.0,3,0,4,32,Female,Urban,Primary 1,,Diplômante,Satisfait,No,4,-1
+50,1,0,4,2,0,0.0,3,0,3,50,Male,Rural,Higher General,BEPC/BEFM,,Satisfait,No,3,-1
+48,1,1,1,0,0,0.0,3,0,1,48,Male,Urban,Primary 2,,,Satisfait,No,0,-1
+24,1,1,1,0,0,5.0,2,0,1,24,Male,Urban,Primary 2,,,Moyennement satisfait,No,4,2
+59,0,1,2,4,3,0.0,2,0,4,59,Female,Urban,Lower Secondary,DEUG/DUT/BTS,Diplômante,Moyennement satisfait,No,0,-1
+52,1,0,1,0,0,30.0,2,0,3,52,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+42,1,1,1,0,3,9999.0,3,0,2,42,Male,Urban,Primary 2,,Diplômante,Satisfait,No,5,-1
+29,1,0,4,2,0,40.0,2,0,3,29,Male,Rural,Higher General,BEPC/BEFM,,Moyennement satisfait,No,2,-1
+35,1,0,6,1,0,0.0,1,0,3,35,Male,Rural,Higher Technical,CEPE/CFEE,,Plutôt insatisfait,No,3,-1
+41,0,1,1,0,3,0.0,2,0,4,41,Female,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,4,-1
+26,1,1,4,1,0,0.0,0,0,1,26,Male,Urban,Higher General,CEPE/CFEE,,Très insatisfait,No,2,-1
+40,1,0,0,0,0,0.0,1,0,3,40,Male,Rural,Primary 1,,,Plutôt insatisfait,No,3,1
+50,0,1,1,4,0,10.0,2,0,4,50,Female,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,0,0
+30,1,1,2,0,0,0.0,1,0,1,30,Male,Urban,Lower Secondary,,,Plutôt insatisfait,No,4,-1
+27,0,0,1,4,0,5.0,3,0,3,27,Female,Rural,Primary 2,DEUG/DUT/BTS,,Satisfait,No,4,-1
+38,1,1,1,4,0,0.0,2,0,1,38,Male,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,1,2
+43,1,1,6,1,0,9999.0,3,0,2,43,Male,Urban,Higher Technical,CEPE/CFEE,,Satisfait,No,5,-1
+32,1,1,4,2,1,0.0,2,0,1,32,Male,Urban,Higher General,BEPC/BEFM,On-the-job,Moyennement satisfait,No,1,-1
+35,1,1,4,2,0,0.0,2,0,1,35,Male,Urban,Higher General,BEPC/BEFM,,Moyennement satisfait,No,1,-1
+36,0,1,2,4,0,0.0,2,1,0,36,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,Yes,1,-1
+66,0,1,1,4,3,0.0,1,0,4,66,Female,Urban,Primary 2,DEUG/DUT/BTS,Diplômante,Plutôt insatisfait,No,0,-1
+46,0,1,6,1,0,9999.0,2,0,2,46,Female,Urban,Higher Technical,CEPE/CFEE,,Moyennement satisfait,No,5,-1
+29,1,1,6,1,0,0.0,2,0,1,29,Male,Urban,Higher Technical,CEPE/CFEE,,Moyennement satisfait,No,4,2
+30,0,1,6,1,0,0.0,2,1,0,30,Female,Urban,Higher Technical,CEPE/CFEE,,Moyennement satisfait,Yes,4,-1
+58,1,1,0,0,0,0.0,2,0,1,58,Male,Urban,Primary 1,,,Moyennement satisfait,No,0,2
+70,0,1,2,4,3,0.0,2,0,4,70,Female,Urban,Lower Secondary,DEUG/DUT/BTS,Diplômante,Moyennement satisfait,No,0,-1
+50,0,1,2,4,0,9999.0,2,0,2,50,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,5,-1
+27,1,0,2,4,3,9999.0,2,0,2,27,Male,Rural,Lower Secondary,DEUG/DUT/BTS,Diplômante,Moyennement satisfait,No,5,-1
+48,1,1,1,0,0,9999.0,2,0,2,48,Male,Urban,Primary 2,,,Moyennement satisfait,No,5,-1
+24,1,1,2,2,0,0.0,3,0,1,24,Male,Urban,Lower Secondary,BEPC/BEFM,,Satisfait,No,2,-1
+25,0,1,1,0,0,0.0,2,0,4,25,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+45,0,1,1,0,0,0.0,2,0,4,45,Female,Urban,Primary 2,,,Moyennement satisfait,No,3,0
+46,0,0,1,0,0,0.0,1,0,4,46,Female,Rural,Primary 2,,,Plutôt insatisfait,No,3,0
+26,0,0,2,4,3,4.0,3,0,4,26,Female,Rural,Lower Secondary,DEUG/DUT/BTS,Diplômante,Satisfait,No,2,-1
+20,1,0,2,4,0,0.0,1,0,3,20,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Plutôt insatisfait,No,2,-1
+34,0,0,1,0,3,0.0,3,0,4,34,Female,Rural,Primary 2,,Diplômante,Satisfait,No,4,-1
+45,1,1,1,0,0,0.0,3,0,1,45,Male,Urban,Primary 2,,,Satisfait,No,3,-1
+45,0,1,4,2,3,0.0,2,0,4,45,Female,Urban,Higher General,BEPC/BEFM,Diplômante,Moyennement satisfait,No,1,-1
+26,1,0,2,4,0,0.0,2,0,3,26,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+28,1,0,2,4,0,9999.0,2,0,2,28,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,5,-1
+44,0,1,1,0,3,9999.0,2,0,2,44,Female,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,5,-1
+39,1,0,2,4,0,0.0,1,0,3,39,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Plutôt insatisfait,No,1,-1
+65,0,1,1,0,3,1.0,3,0,4,65,Female,Urban,Primary 2,,Diplômante,Satisfait,No,0,-1
+23,1,1,2,4,1,0.0,2,0,1,23,Male,Urban,Lower Secondary,DEUG/DUT/BTS,On-the-job,Moyennement satisfait,No,2,2
+30,1,0,1,0,3,2.0,2,0,3,30,Male,Rural,Primary 2,,Diplômante,Moyennement satisfait,No,3,-1
+20,0,0,1,0,0,0.0,1,0,3,20,Female,Rural,Primary 2,,,Plutôt insatisfait,No,4,-1
+29,0,1,0,0,2,0.0,2,0,4,29,Female,Urban,Primary 1,,Certifiante,Moyennement satisfait,No,4,-1
+46,1,0,1,0,0,15.0,2,0,3,46,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+75,1,1,2,4,3,0.0,1,0,1,75,Male,Urban,Lower Secondary,DEUG/DUT/BTS,Diplômante,Plutôt insatisfait,No,0,-1
+37,1,1,1,0,3,0.0,2,0,1,37,Male,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,3,-1
+52,1,1,1,4,3,0.0,3,0,1,52,Male,Urban,Primary 2,DEUG/DUT/BTS,Diplômante,Satisfait,No,0,-1
+20,0,1,0,0,0,0.0,0,0,4,20,Female,Urban,Primary 1,,,Très insatisfait,No,4,-1
+39,1,0,4,2,0,3.0,3,1,0,39,Male,Rural,Higher General,BEPC/BEFM,,Satisfait,Yes,3,-1
+33,0,0,1,0,0,0.0,2,0,3,33,Female,Rural,Primary 2,,,Moyennement satisfait,No,4,0
+27,1,1,0,0,3,9999.0,2,0,2,27,Male,Urban,Primary 1,,Diplômante,Moyennement satisfait,No,5,-1
+52,0,1,1,4,0,0.0,3,0,4,52,Female,Urban,Primary 2,DEUG/DUT/BTS,,Satisfait,No,0,-1
+32,0,0,1,0,0,2.0,3,0,3,32,Female,Rural,Primary 2,,,Satisfait,No,4,-1
+21,1,0,2,4,0,9999.0,2,0,2,21,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,5,-1
+59,1,1,1,0,3,0.0,3,0,1,59,Male,Urban,Primary 2,,Diplômante,Satisfait,No,0,-1
+31,1,0,1,0,0,0.0,2,0,3,31,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+13,0,0,1,0,0,9999.0,0,0,2,13,Female,Rural,Primary 2,,,Très insatisfait,No,5,-1
+26,1,1,1,0,0,3.0,1,1,0,26,Male,Urban,Primary 2,,,Plutôt insatisfait,Yes,4,-1
+65,0,0,1,0,0,0.0,4,0,4,65,Female,Rural,Primary 2,,,Très satisfait,No,0,-1
+40,1,0,1,4,0,10.0,2,0,3,40,Male,Rural,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,3,1
+21,0,1,1,0,0,0.0,2,0,4,21,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+42,0,1,1,4,0,0.0,3,0,4,42,Female,Urban,Primary 2,DEUG/DUT/BTS,,Satisfait,No,1,-1
+29,1,0,2,4,2,0.0,2,0,3,29,Male,Rural,Lower Secondary,DEUG/DUT/BTS,Certifiante,Moyennement satisfait,No,2,-1
+50,1,1,7,5,2,25.0,2,0,1,50,Male,Urban,,Licence,Certifiante,Moyennement satisfait,No,0,-1
+32,1,1,1,0,0,9999.0,2,0,2,32,Male,Urban,Primary 2,,,Moyennement satisfait,No,5,-1
+24,0,0,1,0,0,0.0,2,0,3,24,Female,Rural,Primary 2,,,Moyennement satisfait,No,4,-1
+56,0,1,1,0,0,9999.0,1,0,2,56,Female,Urban,Primary 2,,,Plutôt insatisfait,No,5,-1
+36,1,1,1,0,0,0.0,2,0,1,36,Male,Urban,Primary 2,,,Moyennement satisfait,No,4,2
+32,0,1,0,0,0,9999.0,2,0,2,32,Female,Urban,Primary 1,,,Moyennement satisfait,No,5,-1
+29,0,1,2,4,0,0.0,2,0,4,29,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,4,-1
+40,0,0,4,2,2,0.0,1,0,4,40,Female,Rural,Higher General,BEPC/BEFM,Certifiante,Plutôt insatisfait,No,3,-1
+44,1,1,1,0,1,9999.0,2,0,2,44,Male,Urban,Primary 2,,On-the-job,Moyennement satisfait,No,5,-1
+35,1,1,4,1,0,9999.0,2,0,2,35,Male,Urban,Higher General,CEPE/CFEE,,Moyennement satisfait,No,5,-1
+27,0,1,0,0,0,0.0,2,0,4,27,Female,Urban,Primary 1,,,Moyennement satisfait,No,4,0
+34,0,0,7,5,2,5.0,3,0,4,34,Female,Rural,,Licence,Certifiante,Satisfait,No,4,-1
+49,1,0,2,4,0,9999.0,2,0,2,49,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,5,-1
+52,0,0,1,0,0,0.0,2,0,4,52,Female,Rural,Primary 2,,,Moyennement satisfait,No,3,-1
+18,0,0,1,0,0,0.0,2,0,3,18,Female,Rural,Primary 2,,,Moyennement satisfait,No,4,-1
+32,1,1,2,4,3,2.0,3,0,1,32,Male,Urban,Lower Secondary,DEUG/DUT/BTS,Diplômante,Satisfait,No,1,-1
+30,1,0,6,1,0,9999.0,2,0,2,30,Male,Rural,Higher Technical,CEPE/CFEE,,Moyennement satisfait,No,5,-1
+68,1,1,2,2,2,0.0,1,0,1,68,Male,Urban,Lower Secondary,BEPC/BEFM,Certifiante,Plutôt insatisfait,No,0,-1
+35,1,1,4,1,2,0.0,2,0,1,35,Male,Urban,Higher General,CEPE/CFEE,Certifiante,Moyennement satisfait,No,1,-1
+18,1,0,0,0,0,0.0,2,0,3,18,Male,Rural,Primary 1,,,Moyennement satisfait,No,2,1
+29,0,1,4,2,0,9999.0,2,0,2,29,Female,Urban,Higher General,BEPC/BEFM,,Moyennement satisfait,No,5,-1
+38,1,0,4,2,0,0.0,2,0,3,38,Male,Rural,Higher General,BEPC/BEFM,,Moyennement satisfait,No,3,-1
+43,1,1,2,4,0,9999.0,0,0,2,43,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Très insatisfait,No,5,-1
+31,0,1,4,2,0,3.0,1,0,4,31,Female,Urban,Higher General,BEPC/BEFM,,Plutôt insatisfait,No,4,-1
+22,1,1,4,1,0,0.0,2,1,0,22,Male,Urban,Higher General,CEPE/CFEE,,Moyennement satisfait,Yes,2,-1
+47,1,1,1,0,3,200.0,3,0,1,47,Male,Urban,Primary 2,,Diplômante,Satisfait,No,3,-1
+30,1,0,2,2,0,2.0,2,0,3,30,Male,Rural,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,No,2,1
+65,1,0,1,4,2,0.0,1,0,3,65,Male,Rural,Primary 2,DEUG/DUT/BTS,Certifiante,Plutôt insatisfait,No,0,-1
+51,1,1,6,7,0,9999.0,4,0,2,51,Male,Urban,Higher Technical,Master/DESS/DEA,,Très satisfait,No,5,-1
+21,0,0,2,4,0,0.0,2,0,3,21,Female,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+30,0,1,0,0,0,2.0,4,0,4,30,Female,Urban,Primary 1,,,Très satisfait,No,4,-1
+15,1,0,2,4,0,13.0,1,0,3,15,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Plutôt insatisfait,No,2,-1
+25,1,0,1,4,0,0.0,2,0,3,25,Male,Rural,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,2,1
+62,0,1,4,2,0,0.0,3,0,4,62,Female,Urban,Higher General,BEPC/BEFM,,Satisfait,No,0,-1
+40,1,0,1,0,0,0.0,2,0,3,40,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+55,1,1,2,4,3,0.0,2,0,1,55,Male,Urban,Lower Secondary,DEUG/DUT/BTS,Diplômante,Moyennement satisfait,No,0,-1
+46,1,0,1,0,0,0.0,2,0,3,46,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+38,1,0,0,0,0,0.0,1,0,3,38,Male,Rural,Primary 1,,,Plutôt insatisfait,No,3,1
+60,1,1,1,0,0,0.0,0,0,1,60,Male,Urban,Primary 2,,,Très insatisfait,No,0,-1
+36,0,1,2,4,0,0.0,3,0,4,36,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Satisfait,No,1,-1
+24,1,0,2,4,2,0.0,1,0,3,24,Male,Rural,Lower Secondary,DEUG/DUT/BTS,Certifiante,Plutôt insatisfait,No,2,-1
+43,0,0,1,0,0,0.0,3,0,4,43,Female,Rural,Primary 2,,,Satisfait,No,3,-1
+42,1,1,1,0,0,3.0,2,1,0,42,Male,Urban,Primary 2,,,Moyennement satisfait,Yes,3,-1
+33,1,0,1,0,0,0.0,3,0,3,33,Male,Rural,Primary 2,,,Satisfait,No,3,-1
+26,1,0,4,2,3,5.0,2,0,3,26,Male,Rural,Higher General,BEPC/BEFM,Diplômante,Moyennement satisfait,No,2,-1
+53,0,1,1,0,0,0.0,1,0,4,53,Female,Urban,Primary 2,,,Plutôt insatisfait,No,0,0
+29,0,1,1,0,0,0.0,2,0,4,29,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+36,1,0,2,4,0,25.0,2,0,3,36,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,1
+25,1,0,2,4,0,0.0,2,0,3,25,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+23,1,1,2,4,0,0.0,4,0,1,23,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Très satisfait,No,2,-1
+57,0,1,1,0,0,0.0,1,0,4,57,Female,Urban,Primary 2,,,Plutôt insatisfait,No,0,0
+17,0,1,1,0,0,0.0,2,0,4,17,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,-1
+46,1,1,1,4,2,0.0,2,0,1,46,Male,Urban,Primary 2,DEUG/DUT/BTS,Certifiante,Moyennement satisfait,No,1,-1
+46,0,1,1,4,0,0.0,2,1,0,46,Female,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,Yes,1,-1
+57,0,1,1,0,3,0.0,2,0,4,57,Female,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,0,-1
+31,0,1,2,4,3,0.0,1,0,4,31,Female,Urban,Lower Secondary,DEUG/DUT/BTS,Diplômante,Plutôt insatisfait,No,4,-1
+35,1,0,1,0,3,0.0,2,0,3,35,Male,Rural,Primary 2,,Diplômante,Moyennement satisfait,No,3,-1
+26,0,0,2,4,0,0.0,0,0,3,26,Female,Rural,Lower Secondary,DEUG/DUT/BTS,,Très insatisfait,No,2,-1
+44,1,1,1,0,1,0.0,2,0,1,44,Male,Urban,Primary 2,,On-the-job,Moyennement satisfait,No,3,2
+30,1,1,2,2,3,5.0,3,0,1,30,Male,Urban,Lower Secondary,BEPC/BEFM,Diplômante,Satisfait,No,1,-1
+28,1,0,2,4,0,0.0,0,0,3,28,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Très insatisfait,No,2,-1
+48,0,0,1,0,0,5.0,2,0,4,48,Female,Rural,Primary 2,,,Moyennement satisfait,No,3,-1
+46,0,0,2,4,0,0.0,1,0,4,46,Female,Rural,Lower Secondary,DEUG/DUT/BTS,,Plutôt insatisfait,No,1,-1
+28,0,1,4,2,2,5.0,2,0,4,28,Female,Urban,Higher General,BEPC/BEFM,Certifiante,Moyennement satisfait,No,4,-1
+19,1,0,0,0,0,0.0,2,0,3,19,Male,Rural,Primary 1,,,Moyennement satisfait,No,2,1
+49,1,0,4,2,0,0.0,1,0,3,49,Male,Rural,Higher General,BEPC/BEFM,,Plutôt insatisfait,No,3,-1
+42,1,1,1,0,0,0.0,3,0,1,42,Male,Urban,Primary 2,,,Satisfait,No,3,-1
+39,1,0,6,1,0,9999.0,2,0,2,39,Male,Rural,Higher Technical,CEPE/CFEE,,Moyennement satisfait,No,5,-1
+51,1,1,4,2,2,0.0,2,1,0,51,Male,Urban,Higher General,BEPC/BEFM,Certifiante,Moyennement satisfait,Yes,0,-1
+41,0,1,1,0,3,0.0,2,0,4,41,Female,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,4,-1
+34,1,1,2,2,0,0.0,2,0,1,34,Male,Urban,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,No,1,2
+68,0,1,1,4,0,0.0,2,0,4,68,Female,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,0,-1
+24,1,1,2,2,0,999.0,3,0,1,24,Male,Urban,Lower Secondary,BEPC/BEFM,,Satisfait,No,2,-1
+30,0,1,2,2,0,0.0,2,0,4,30,Female,Urban,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,No,4,-1
+30,0,0,1,0,0,0.0,2,0,3,30,Female,Rural,Primary 2,,,Moyennement satisfait,No,4,0
+64,0,1,1,4,0,0.0,3,0,4,64,Female,Urban,Primary 2,DEUG/DUT/BTS,,Satisfait,No,0,-1
+41,0,0,1,0,3,0.0,2,0,4,41,Female,Rural,Primary 2,,Diplômante,Moyennement satisfait,No,3,-1
+46,0,1,1,0,0,0.0,3,0,4,46,Female,Urban,Primary 2,,,Satisfait,No,3,-1
+18,0,0,2,4,0,5.0,2,0,3,18,Female,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+55,0,1,2,2,0,3.0,2,0,4,55,Female,Urban,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,No,0,-1
+32,1,1,1,0,0,5.0,3,0,1,32,Male,Urban,Primary 2,,,Satisfait,No,4,-1
+36,1,0,1,0,3,0.0,1,0,3,36,Male,Rural,Primary 2,,Diplômante,Plutôt insatisfait,No,3,-1
+60,0,1,2,4,0,0.0,2,0,4,60,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,0,-1
+58,1,1,2,4,0,0.0,2,0,1,58,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,0,-1
+29,0,1,1,0,0,0.0,2,0,4,29,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+38,1,0,1,0,0,0.0,2,0,3,38,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+30,0,0,4,1,3,5.0,1,0,4,30,Female,Rural,Higher General,CEPE/CFEE,Diplômante,Plutôt insatisfait,No,4,-1
+43,0,1,1,0,3,0.0,1,0,4,43,Female,Urban,Primary 2,,Diplômante,Plutôt insatisfait,No,4,-1
+51,1,1,2,4,2,0.0,2,0,1,51,Male,Urban,Lower Secondary,DEUG/DUT/BTS,Certifiante,Moyennement satisfait,No,1,-1
+40,1,1,0,0,0,0.0,2,0,1,40,Male,Urban,Primary 1,,,Moyennement satisfait,No,1,2
+24,0,0,4,2,0,0.0,2,1,0,24,Female,Rural,Higher General,BEPC/BEFM,,Moyennement satisfait,Yes,2,-1
+43,0,0,1,0,0,2.0,2,0,4,43,Female,Rural,Primary 2,,,Moyennement satisfait,No,3,0
+26,1,1,2,2,0,0.0,2,0,1,26,Male,Urban,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,No,2,2
+31,1,0,1,0,3,9999.0,1,1,0,31,Male,Rural,Primary 2,,Diplômante,Plutôt insatisfait,Yes,5,-1
+72,1,0,0,0,3,9999.0,2,0,2,72,Male,Rural,Primary 1,,Diplômante,Moyennement satisfait,No,5,-1
+46,1,0,0,0,3,9999.0,2,0,2,46,Male,Rural,Primary 1,,Diplômante,Moyennement satisfait,No,5,-1
+32,0,1,1,4,2,0.0,2,0,4,32,Female,Urban,Primary 2,DEUG/DUT/BTS,Certifiante,Moyennement satisfait,No,4,-1
+28,0,0,1,0,3,9999.0,2,0,2,28,Female,Rural,Primary 2,,Diplômante,Moyennement satisfait,No,5,2
+41,1,0,1,0,1,0.0,2,0,3,41,Male,Rural,Primary 2,,On-the-job,Moyennement satisfait,No,3,1
+61,0,0,2,4,3,0.0,2,0,4,61,Female,Rural,Lower Secondary,DEUG/DUT/BTS,Diplômante,Moyennement satisfait,No,0,-1
+45,1,0,1,0,3,0.0,2,0,3,45,Male,Rural,Primary 2,,Diplômante,Moyennement satisfait,No,3,-1
+30,1,0,1,0,3,0.0,2,0,3,30,Male,Rural,Primary 2,,Diplômante,Moyennement satisfait,No,3,-1
+70,1,0,1,0,0,0.0,2,0,3,70,Male,Rural,Primary 2,,,Moyennement satisfait,No,0,-1
+34,1,0,1,0,0,0.0,2,0,3,34,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+67,1,1,1,4,0,0.0,2,0,1,67,Male,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,0,-1
+36,0,1,1,0,0,5.0,2,0,4,36,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+28,1,0,1,0,0,60.0,2,0,3,28,Male,Rural,Primary 2,,,Moyennement satisfait,No,4,1
+25,0,0,4,2,0,5.0,1,0,3,25,Female,Rural,Higher General,BEPC/BEFM,,Plutôt insatisfait,No,2,-1
+40,1,0,0,0,0,0.0,2,0,3,40,Male,Rural,Primary 1,,,Moyennement satisfait,No,3,1
+29,1,1,1,0,0,0.0,2,0,1,29,Male,Urban,Primary 2,,,Moyennement satisfait,No,4,2
+32,1,0,0,0,0,0.0,2,0,3,32,Male,Rural,Primary 1,,,Moyennement satisfait,No,3,1
+23,1,1,6,1,0,9999.0,2,0,2,23,Male,Urban,Higher Technical,CEPE/CFEE,,Moyennement satisfait,No,5,-1
+42,0,0,1,0,3,0.0,2,0,4,42,Female,Rural,Primary 2,,Diplômante,Moyennement satisfait,No,3,-1
+25,1,1,1,0,3,0.0,1,0,1,25,Male,Urban,Primary 2,,Diplômante,Plutôt insatisfait,No,4,2
+51,1,1,1,0,0,0.0,2,0,1,51,Male,Urban,Primary 2,,,Moyennement satisfait,No,0,2
+42,1,1,1,0,2,0.0,2,0,1,42,Male,Urban,Primary 2,,Certifiante,Moyennement satisfait,No,3,-1
+47,0,1,1,0,0,5.0,2,0,4,47,Female,Urban,Primary 2,,,Moyennement satisfait,No,3,0
+44,0,1,1,0,3,2.0,3,0,4,44,Female,Urban,Primary 2,,Diplômante,Satisfait,No,3,-1
+29,1,1,2,2,0,0.0,3,0,1,29,Male,Urban,Lower Secondary,BEPC/BEFM,,Satisfait,No,2,-1
+28,1,0,2,2,0,0.0,2,0,3,28,Male,Rural,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,No,2,1
+23,1,1,6,7,0,0.0,2,0,1,23,Male,Urban,Higher Technical,Master/DESS/DEA,,Moyennement satisfait,No,2,2
+28,0,1,4,2,0,0.0,1,0,4,28,Female,Urban,Higher General,BEPC/BEFM,,Plutôt insatisfait,No,4,-1
+58,1,1,1,0,3,9999.0,2,0,2,58,Male,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,5,-1
+45,1,1,1,4,3,0.0,3,0,1,45,Male,Urban,Primary 2,DEUG/DUT/BTS,Diplômante,Satisfait,No,1,-1
+57,0,1,1,0,0,9999.0,3,0,2,57,Female,Urban,Primary 2,,,Satisfait,No,5,-1
+22,1,1,1,4,0,9999.0,2,0,2,22,Male,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,5,-1
+31,0,1,4,2,0,0.0,2,0,4,31,Female,Urban,Higher General,BEPC/BEFM,,Moyennement satisfait,No,4,-1
+35,0,1,1,0,0,3.0,2,0,4,35,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+24,1,0,1,4,0,25.0,2,0,3,24,Male,Rural,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,2,1
+40,0,1,0,0,3,50.0,3,0,4,40,Female,Urban,Primary 1,,Diplômante,Satisfait,No,4,-1
+47,0,1,1,0,1,25.0,2,0,4,47,Female,Urban,Primary 2,,On-the-job,Moyennement satisfait,No,3,0
+54,1,1,2,4,2,0.0,2,0,1,54,Male,Urban,Lower Secondary,DEUG/DUT/BTS,Certifiante,Moyennement satisfait,No,1,-1
+52,0,0,0,0,3,9999.0,2,0,2,52,Female,Rural,Primary 1,,Diplômante,Moyennement satisfait,No,5,-1
+22,1,0,0,0,0,9999.0,0,0,2,22,Male,Rural,Primary 1,,,Très insatisfait,No,5,-1
+20,0,0,1,4,0,0.0,2,0,3,20,Female,Rural,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+32,0,1,6,7,0,0.0,2,0,4,32,Female,Urban,Higher Technical,Master/DESS/DEA,,Moyennement satisfait,No,4,-1
+80,0,0,2,4,1,0.0,2,0,4,80,Female,Rural,Lower Secondary,DEUG/DUT/BTS,On-the-job,Moyennement satisfait,No,0,-1
+38,1,1,3,2,0,0.0,2,0,1,38,Male,Urban,Upper Secondary,BEPC/BEFM,,Moyennement satisfait,No,1,2
+35,0,0,0,0,3,2.0,1,0,4,35,Female,Rural,Primary 1,,Diplômante,Plutôt insatisfait,No,4,-1
+34,0,1,2,4,0,0.0,2,0,4,34,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,-1
+34,0,0,1,0,3,0.0,2,0,4,34,Female,Rural,Primary 2,,Diplômante,Moyennement satisfait,No,4,-1
+20,1,0,4,2,1,0.0,2,0,3,20,Male,Rural,Higher General,BEPC/BEFM,On-the-job,Moyennement satisfait,No,2,-1
+28,0,0,2,4,0,0.0,2,0,3,28,Female,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+47,1,0,1,4,0,0.0,3,0,3,47,Male,Rural,Primary 2,DEUG/DUT/BTS,,Satisfait,No,3,-1
+23,0,0,0,0,0,0.0,2,0,3,23,Female,Rural,Primary 1,,,Moyennement satisfait,No,4,-1
+51,1,0,1,0,3,5.0,2,0,3,51,Male,Rural,Primary 2,,Diplômante,Moyennement satisfait,No,3,-1
+48,0,0,4,2,0,9999.0,3,0,2,48,Female,Rural,Higher General,BEPC/BEFM,,Satisfait,No,5,-1
+55,1,0,1,0,0,0.0,3,0,3,55,Male,Rural,Primary 2,,,Satisfait,No,0,-1
+42,1,1,1,0,0,0.0,2,0,1,42,Male,Urban,Primary 2,,,Moyennement satisfait,No,3,2
+10,1,0,0,0,3,0.0,2,0,3,10,Male,Rural,Primary 1,,Diplômante,Moyennement satisfait,No,2,-1
+20,0,0,1,0,0,0.0,2,0,3,20,Female,Rural,Primary 2,,,Moyennement satisfait,No,4,-1
+23,0,0,1,4,0,0.0,2,0,3,23,Female,Rural,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,2,0
+35,1,1,0,0,0,12.0,2,0,1,35,Male,Urban,Primary 1,,,Moyennement satisfait,No,4,2
+22,1,0,1,0,0,0.0,2,0,3,22,Male,Rural,Primary 2,,,Moyennement satisfait,No,2,1
+43,0,1,1,0,0,0.0,3,0,4,43,Female,Urban,Primary 2,,,Satisfait,No,4,-1
+28,1,1,4,2,0,9999.0,2,0,2,28,Male,Urban,Higher General,BEPC/BEFM,,Moyennement satisfait,No,5,-1
+47,0,0,2,4,0,9999.0,2,1,0,47,Female,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,Yes,5,-1
+20,1,1,5,1,0,0.0,1,0,1,20,Male,Urban,Technical Secondary,CEPE/CFEE,,Plutôt insatisfait,No,2,-1
+43,0,1,1,0,0,0.0,2,0,4,43,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+48,1,1,1,0,3,0.0,2,0,1,48,Male,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,0,-1
+25,0,0,1,0,0,0.0,2,0,3,25,Female,Rural,Primary 2,,,Moyennement satisfait,No,4,0
+62,0,1,1,0,0,1.0,2,0,4,62,Female,Urban,Primary 2,,,Moyennement satisfait,No,0,0
+27,0,1,4,2,0,0.0,2,0,4,27,Female,Urban,Higher General,BEPC/BEFM,,Moyennement satisfait,No,4,-1
+65,1,0,2,4,2,0.0,3,0,3,65,Male,Rural,Lower Secondary,DEUG/DUT/BTS,Certifiante,Satisfait,No,0,-1
+38,0,1,1,0,0,0.0,2,0,4,38,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+39,1,1,2,2,0,0.0,2,0,1,39,Male,Urban,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,No,1,2
+22,1,1,4,2,0,0.0,2,0,1,22,Male,Urban,Higher General,BEPC/BEFM,,Moyennement satisfait,No,2,-1
+22,1,1,1,0,0,0.0,2,0,1,22,Male,Urban,Primary 2,,,Moyennement satisfait,No,4,2
+60,1,0,2,4,0,0.0,2,1,0,60,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,Yes,0,-1
+33,1,1,1,0,3,3.0,2,0,1,33,Male,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,4,-1
+52,1,1,2,4,1,0.0,2,0,1,52,Male,Urban,Lower Secondary,DEUG/DUT/BTS,On-the-job,Moyennement satisfait,No,1,-1
+35,0,1,1,0,0,0.0,2,1,0,35,Female,Urban,Primary 2,,,Moyennement satisfait,Yes,4,-1
+48,1,1,1,0,0,0.0,2,0,1,48,Male,Urban,Primary 2,,,Moyennement satisfait,No,0,2
+20,1,0,2,4,0,0.0,2,0,3,20,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+31,1,1,2,2,0,0.0,2,1,0,31,Male,Urban,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,Yes,1,-1
+28,1,0,0,0,0,0.0,2,0,3,28,Male,Rural,Primary 1,,,Moyennement satisfait,No,2,1
+37,0,1,2,4,0,9999.0,2,0,2,37,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,5,-1
+66,1,0,2,2,0,0.0,3,0,3,66,Male,Rural,Lower Secondary,BEPC/BEFM,,Satisfait,No,0,-1
+32,1,1,4,2,0,0.0,3,0,1,32,Male,Urban,Higher General,BEPC/BEFM,,Satisfait,No,1,-1
+40,1,1,2,4,0,0.0,2,0,1,40,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,2
+37,0,1,0,0,0,0.0,2,1,0,37,Female,Urban,Primary 1,,,Moyennement satisfait,Yes,4,-1
+15,1,0,2,4,0,0.0,2,0,3,15,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+27,1,0,2,4,0,0.0,2,0,3,27,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,1
+51,1,1,1,0,0,0.0,2,0,1,51,Male,Urban,Primary 2,,,Moyennement satisfait,No,0,2
+48,0,1,1,0,0,0.0,2,0,4,48,Female,Urban,Primary 2,,,Moyennement satisfait,No,0,0
+27,1,1,1,0,0,0.0,2,0,1,27,Male,Urban,Primary 2,,,Moyennement satisfait,No,4,2
+50,1,1,4,1,3,15.0,2,1,0,50,Male,Urban,Higher General,CEPE/CFEE,Diplômante,Moyennement satisfait,Yes,0,-1
+50,1,1,2,2,3,0.0,1,0,1,50,Male,Urban,Lower Secondary,BEPC/BEFM,Diplômante,Plutôt insatisfait,No,1,-1
+33,1,0,2,4,0,0.0,3,0,3,33,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Satisfait,No,2,-1
+53,0,1,1,0,3,0.0,2,0,4,53,Female,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,0,-1
+22,0,0,2,4,0,2.0,1,0,3,22,Female,Rural,Lower Secondary,DEUG/DUT/BTS,,Plutôt insatisfait,No,2,-1
+28,1,1,1,0,3,0.0,3,0,1,28,Male,Urban,Primary 2,,Diplômante,Satisfait,No,4,-1
+36,0,0,1,0,0,0.0,3,0,3,36,Female,Rural,Primary 2,,,Satisfait,No,4,-1
+50,1,1,2,4,3,0.0,2,0,1,50,Male,Urban,Lower Secondary,DEUG/DUT/BTS,Diplômante,Moyennement satisfait,No,1,-1
+26,0,1,2,4,0,0.0,0,0,4,26,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Très insatisfait,No,2,-1
+50,1,1,1,0,0,0.0,2,0,1,50,Male,Urban,Primary 2,,,Moyennement satisfait,No,0,2
+45,1,0,1,0,0,5.0,1,0,3,45,Male,Rural,Primary 2,,,Plutôt insatisfait,No,3,1
+38,1,0,1,4,0,0.0,3,0,3,38,Male,Rural,Primary 2,DEUG/DUT/BTS,,Satisfait,No,3,-1
+42,0,0,1,0,0,0.0,2,0,4,42,Female,Rural,Primary 2,,,Moyennement satisfait,No,3,0
+22,0,1,2,4,0,0.0,2,0,4,22,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+55,1,1,1,0,0,0.0,2,0,1,55,Male,Urban,Primary 2,,,Moyennement satisfait,No,0,2
+28,0,1,1,0,3,0.0,2,0,4,28,Female,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,4,-1
+28,1,0,1,0,0,0.0,3,0,3,28,Male,Rural,Primary 2,,,Satisfait,No,4,-1
+34,0,0,0,0,3,0.0,0,0,4,34,Female,Rural,Primary 1,,Diplômante,Très insatisfait,No,4,-1
+54,1,0,1,4,0,9999.0,1,0,2,54,Male,Rural,Primary 2,DEUG/DUT/BTS,,Plutôt insatisfait,No,5,-1
+55,0,0,2,4,0,0.0,1,0,4,55,Female,Rural,Lower Secondary,DEUG/DUT/BTS,,Plutôt insatisfait,No,0,-1
+50,1,0,0,0,0,0.0,3,0,3,50,Male,Rural,Primary 1,,,Satisfait,No,3,-1
+32,1,0,0,0,0,0.0,2,0,3,32,Male,Rural,Primary 1,,,Moyennement satisfait,No,3,1
+36,1,0,1,0,0,0.0,2,0,3,36,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+35,0,1,2,4,0,9999.0,3,0,2,35,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Satisfait,No,5,-1
+65,0,0,1,0,0,999.0,3,0,4,65,Female,Rural,Primary 2,,,Satisfait,No,0,-1
+43,1,0,4,1,0,0.0,2,0,3,43,Male,Rural,Higher General,CEPE/CFEE,,Moyennement satisfait,No,3,-1
+38,0,1,1,0,3,75.0,2,0,4,38,Female,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,4,-1
+25,0,1,2,4,0,2.0,2,0,4,25,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+42,1,0,1,0,0,0.0,3,0,3,42,Male,Rural,Primary 2,,,Satisfait,No,3,-1
+60,1,0,1,0,0,0.0,3,0,3,60,Male,Rural,Primary 2,,,Satisfait,No,0,-1
+53,1,0,2,4,0,0.0,1,0,3,53,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Plutôt insatisfait,No,1,-1
+28,0,1,4,2,0,0.0,3,0,4,28,Female,Urban,Higher General,BEPC/BEFM,,Satisfait,No,4,-1
+69,0,0,1,4,3,0.0,2,0,4,69,Female,Rural,Primary 2,DEUG/DUT/BTS,Diplômante,Moyennement satisfait,No,0,-1
+49,1,1,1,0,0,0.0,2,0,1,49,Male,Urban,Primary 2,,,Moyennement satisfait,No,0,2
+30,0,1,2,0,0,0.0,2,0,4,30,Female,Urban,Lower Secondary,,,Moyennement satisfait,No,4,0
+20,1,1,6,1,0,0.0,2,0,1,20,Male,Urban,Higher Technical,CEPE/CFEE,,Moyennement satisfait,No,2,-1
+32,0,1,1,0,0,0.0,2,0,4,32,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+49,0,1,2,4,0,9999.0,2,0,2,49,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,5,-1
+22,1,1,1,0,0,0.0,2,0,1,22,Male,Urban,Primary 2,,,Moyennement satisfait,No,4,2
+48,1,1,1,0,0,15.0,2,0,1,48,Male,Urban,Primary 2,,,Moyennement satisfait,No,0,2
+52,0,0,2,4,3,0.0,2,0,4,52,Female,Rural,Lower Secondary,DEUG/DUT/BTS,Diplômante,Moyennement satisfait,No,1,-1
+36,0,1,2,4,0,0.0,3,0,4,36,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Satisfait,No,1,-1
+22,1,1,4,2,0,0.0,0,1,0,22,Male,Urban,Higher General,BEPC/BEFM,,Très insatisfait,Yes,2,-1
+37,1,0,1,0,0,0.0,3,0,3,37,Male,Rural,Primary 2,,,Satisfait,No,3,-1
+50,0,1,2,2,3,0.0,3,0,4,50,Female,Urban,Lower Secondary,BEPC/BEFM,Diplômante,Satisfait,No,1,-1
+24,0,0,1,0,0,5.0,2,0,3,24,Female,Rural,Primary 2,,,Moyennement satisfait,No,4,-1
+19,1,1,2,0,3,1.0,2,0,1,19,Male,Urban,Lower Secondary,,Diplômante,Moyennement satisfait,No,2,-1
+44,1,1,2,2,0,0.0,1,0,1,44,Male,Urban,Lower Secondary,BEPC/BEFM,,Plutôt insatisfait,No,1,2
+18,1,0,4,2,0,0.0,2,0,3,18,Male,Rural,Higher General,BEPC/BEFM,,Moyennement satisfait,No,2,-1
+57,0,1,0,0,3,0.0,1,0,4,57,Female,Urban,Primary 1,,Diplômante,Plutôt insatisfait,No,0,-1
+33,1,0,2,4,3,0.0,1,0,3,33,Male,Rural,Lower Secondary,DEUG/DUT/BTS,Diplômante,Plutôt insatisfait,No,2,-1
+26,0,1,7,7,2,0.0,2,1,0,26,Female,Urban,,Master/DESS/DEA,Certifiante,Moyennement satisfait,Yes,4,-1
+20,0,0,2,4,0,5.0,2,0,3,20,Female,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+51,1,1,2,4,0,0.0,2,0,1,51,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,2
+25,1,1,1,0,3,0.0,2,0,1,25,Male,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,4,-1
+28,1,0,1,4,0,0.0,2,0,3,28,Male,Rural,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,2,1
+39,1,1,4,2,0,0.0,3,0,1,39,Male,Urban,Higher General,BEPC/BEFM,,Satisfait,No,1,-1
+29,1,0,4,4,0,0.0,1,0,3,29,Male,Rural,Higher General,DEUG/DUT/BTS,,Plutôt insatisfait,No,2,-1
+38,0,0,1,0,0,3.0,2,0,3,38,Female,Rural,Primary 2,,,Moyennement satisfait,No,3,0
+45,1,1,1,0,0,5.0,2,1,0,45,Male,Urban,Primary 2,,,Moyennement satisfait,Yes,3,-1
+45,1,1,2,2,0,9999.0,2,0,2,45,Male,Urban,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,No,5,-1
+35,1,0,2,4,0,0.0,2,0,3,35,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,1
+22,1,1,1,0,0,0.0,0,0,1,22,Male,Urban,Primary 2,,,Très insatisfait,No,4,-1
+50,1,1,1,4,0,0.0,2,1,0,50,Male,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,Yes,0,-1
+40,0,1,1,0,1,15.0,2,0,4,40,Female,Urban,Primary 2,,On-the-job,Moyennement satisfait,No,4,0
+43,0,0,1,0,3,0.0,3,0,4,43,Female,Rural,Primary 2,,Diplômante,Satisfait,No,3,-1
+20,0,0,2,2,0,0.0,2,0,3,20,Female,Rural,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,No,2,-1
+22,1,0,1,0,0,0.0,2,0,3,22,Male,Rural,Primary 2,,,Moyennement satisfait,No,2,1
+45,1,1,1,0,0,25.0,2,0,1,45,Male,Urban,Primary 2,,,Moyennement satisfait,No,3,2
+53,1,1,6,1,0,9999.0,3,0,2,53,Male,Urban,Higher Technical,CEPE/CFEE,,Satisfait,No,5,-1
+58,1,0,1,0,0,0.0,2,0,3,58,Male,Rural,Primary 2,,,Moyennement satisfait,No,0,1
+53,1,1,1,0,3,0.0,2,0,1,53,Male,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,0,-1
+18,1,0,2,2,2,0.0,2,0,3,18,Male,Rural,Lower Secondary,BEPC/BEFM,Certifiante,Moyennement satisfait,No,2,-1
+19,1,1,2,4,0,9999.0,2,0,2,19,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,5,-1
+29,0,1,1,0,0,0.0,2,0,4,29,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+17,0,0,1,0,0,3.0,2,0,3,17,Female,Rural,Primary 2,,,Moyennement satisfait,No,4,-1
+47,1,1,2,4,0,0.0,0,0,1,47,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Très insatisfait,No,1,-1
+48,1,1,1,0,0,9999.0,1,0,2,48,Male,Urban,Primary 2,,,Plutôt insatisfait,No,5,-1
+41,1,0,0,0,0,99.0,3,0,3,41,Male,Rural,Primary 1,,,Satisfait,No,3,-1
+22,1,1,2,4,0,0.0,3,0,1,22,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Satisfait,No,2,-1
+53,1,0,1,0,0,0.0,1,0,3,53,Male,Rural,Primary 2,,,Plutôt insatisfait,No,0,1
+47,0,1,1,0,0,0.0,2,0,4,47,Female,Urban,Primary 2,,,Moyennement satisfait,No,3,0
+26,1,0,1,0,0,9999.0,3,0,2,26,Male,Rural,Primary 2,,,Satisfait,No,5,-1
+24,0,0,2,4,0,0.0,2,0,3,24,Female,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+44,1,1,1,0,3,0.0,1,0,1,44,Male,Urban,Primary 2,,Diplômante,Plutôt insatisfait,No,3,-1
+61,1,1,2,4,2,0.0,2,0,1,61,Male,Urban,Lower Secondary,DEUG/DUT/BTS,Certifiante,Moyennement satisfait,No,0,-1
+27,1,1,1,0,3,0.0,2,0,1,27,Male,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,4,-1
+44,1,0,1,0,3,0.0,3,0,3,44,Male,Rural,Primary 2,,Diplômante,Satisfait,No,3,-1
+36,1,1,2,4,0,0.0,2,0,1,36,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,2
+64,0,1,1,0,0,9999.0,2,0,2,64,Female,Urban,Primary 2,,,Moyennement satisfait,No,5,-1
+51,0,0,1,0,3,0.0,2,0,4,51,Female,Rural,Primary 2,,Diplômante,Moyennement satisfait,No,3,-1
+52,1,0,2,4,0,999.0,3,0,3,52,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Satisfait,No,1,-1
+48,1,0,1,0,0,999.0,3,0,3,48,Male,Rural,Primary 2,,,Satisfait,No,3,-1
+46,1,1,1,4,0,0.0,2,0,1,46,Male,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,1,2
+35,1,0,1,0,0,0.0,2,0,3,35,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+48,1,1,1,0,0,0.0,3,0,1,48,Male,Urban,Primary 2,,,Satisfait,No,0,-1
+29,1,0,1,4,0,0.0,2,0,3,29,Male,Rural,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,2,1
+30,0,0,1,0,0,999.0,2,0,3,30,Female,Rural,Primary 2,,,Moyennement satisfait,No,4,0
+32,0,1,4,1,0,0.0,3,0,4,32,Female,Urban,Higher General,CEPE/CFEE,,Satisfait,No,4,-1
+29,0,1,1,0,0,0.0,1,0,4,29,Female,Urban,Primary 2,,,Plutôt insatisfait,No,4,0
+37,1,1,1,4,3,9999.0,2,0,2,37,Male,Urban,Primary 2,DEUG/DUT/BTS,Diplômante,Moyennement satisfait,No,5,-1
+54,1,1,2,4,0,2.0,2,0,1,54,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,2
+60,0,1,1,0,0,0.0,1,0,4,60,Female,Urban,Primary 2,,,Plutôt insatisfait,No,0,-1
+42,0,1,2,4,0,9999.0,3,0,2,42,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Satisfait,No,5,-1
+29,1,0,2,4,0,0.0,3,0,3,29,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Satisfait,No,2,-1
+15,1,0,2,4,0,9999.0,2,0,2,15,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,5,-1
+62,1,0,1,0,0,0.0,3,0,3,62,Male,Rural,Primary 2,,,Satisfait,No,0,-1
+50,0,0,1,0,0,0.0,3,0,4,50,Female,Rural,Primary 2,,,Satisfait,No,3,-1
+25,1,0,1,0,0,0.0,2,0,3,25,Male,Rural,Primary 2,,,Moyennement satisfait,No,2,1
+52,1,1,1,4,3,999.0,3,0,1,52,Male,Urban,Primary 2,DEUG/DUT/BTS,Diplômante,Satisfait,No,0,-1
+56,1,0,1,4,0,0.0,2,0,3,56,Male,Rural,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,0,-1
+41,0,1,1,0,0,9999.0,2,0,2,41,Female,Urban,Primary 2,,,Moyennement satisfait,No,5,-1
+33,1,0,4,2,3,0.0,2,0,3,33,Male,Rural,Higher General,BEPC/BEFM,Diplômante,Moyennement satisfait,No,3,-1
+25,0,1,1,4,0,0.0,2,0,4,25,Female,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,4,0
+28,1,0,2,2,0,0.0,2,0,3,28,Male,Rural,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,No,2,1
+42,1,0,1,0,0,0.0,2,0,3,42,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+38,1,0,2,2,1,2.0,2,0,3,38,Male,Rural,Lower Secondary,BEPC/BEFM,On-the-job,Moyennement satisfait,No,1,-1
+47,1,1,1,0,3,0.0,2,0,1,47,Male,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,3,-1
+65,0,1,2,4,3,0.0,3,0,4,65,Female,Urban,Lower Secondary,DEUG/DUT/BTS,Diplômante,Satisfait,No,0,-1
+31,1,1,6,7,1,0.0,2,0,1,31,Male,Urban,Higher Technical,Master/DESS/DEA,On-the-job,Moyennement satisfait,No,4,2
+30,1,0,2,4,0,0.0,3,0,3,30,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Satisfait,No,2,-1
+24,0,1,2,4,0,0.0,2,0,4,24,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+63,1,0,1,4,0,8.0,2,0,3,63,Male,Rural,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,0,-1
+45,1,0,2,4,3,0.0,2,0,3,45,Male,Rural,Lower Secondary,DEUG/DUT/BTS,Diplômante,Moyennement satisfait,No,1,-1
+25,1,0,2,4,3,0.0,3,0,3,25,Male,Rural,Lower Secondary,DEUG/DUT/BTS,Diplômante,Satisfait,No,2,-1
+33,0,1,2,4,0,0.0,0,0,4,33,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Très insatisfait,No,1,-1
+40,1,1,0,0,0,0.0,2,0,1,40,Male,Urban,Primary 1,,,Moyennement satisfait,No,1,2
+46,1,0,1,0,2,0.0,1,0,3,46,Male,Rural,Primary 2,,Certifiante,Plutôt insatisfait,No,3,-1
+38,1,0,2,2,0,9999.0,2,0,2,38,Male,Rural,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,No,5,-1
+53,1,0,1,0,2,0.0,2,0,3,53,Male,Rural,Primary 2,,Certifiante,Moyennement satisfait,No,0,-1
+29,1,1,2,4,0,0.0,1,0,1,29,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Plutôt insatisfait,No,2,2
+38,1,1,1,0,2,0.0,2,0,1,38,Male,Urban,Primary 2,,Certifiante,Moyennement satisfait,No,3,-1
+32,1,1,4,1,0,9999.0,3,0,2,32,Male,Urban,Higher General,CEPE/CFEE,,Satisfait,No,5,-1
+52,0,1,1,4,0,0.0,3,0,4,52,Female,Urban,Primary 2,DEUG/DUT/BTS,,Satisfait,No,0,-1
+48,1,1,2,4,0,0.0,2,0,1,48,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,2
+65,0,1,1,0,0,9999.0,0,0,2,65,Female,Urban,Primary 2,,,Très insatisfait,No,5,-1
+36,0,1,2,4,3,0.0,3,0,4,36,Female,Urban,Lower Secondary,DEUG/DUT/BTS,Diplômante,Satisfait,No,1,-1
+57,1,0,1,0,0,0.0,2,0,3,57,Male,Rural,Primary 2,,,Moyennement satisfait,No,0,1
+43,1,1,4,1,0,0.0,2,0,1,43,Male,Urban,Higher General,CEPE/CFEE,,Moyennement satisfait,No,1,-1
+22,1,0,4,1,0,27.0,2,1,0,22,Male,Rural,Higher General,CEPE/CFEE,,Moyennement satisfait,Yes,2,-1
+42,1,1,1,0,1,0.0,2,0,1,42,Male,Urban,Primary 2,,On-the-job,Moyennement satisfait,No,3,2
+35,0,1,0,0,0,0.0,2,0,4,35,Female,Urban,Primary 1,,,Moyennement satisfait,No,4,0
+46,1,1,1,0,0,0.0,2,0,1,46,Male,Urban,Primary 2,,,Moyennement satisfait,No,3,2
+31,1,0,4,2,0,0.0,2,0,3,31,Male,Rural,Higher General,BEPC/BEFM,,Moyennement satisfait,No,2,-1
+33,0,1,1,0,2,0.0,3,0,4,33,Female,Urban,Primary 2,,Certifiante,Satisfait,No,4,-1
+22,1,1,2,4,0,0.0,3,0,1,22,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Satisfait,No,2,-1
+36,0,1,1,0,2,0.0,1,0,4,36,Female,Urban,Primary 2,,Certifiante,Plutôt insatisfait,No,4,-1
+23,0,1,4,1,0,0.0,3,0,4,23,Female,Urban,Higher General,CEPE/CFEE,,Satisfait,No,4,-1
+34,0,1,4,2,0,0.0,2,0,4,34,Female,Urban,Higher General,BEPC/BEFM,,Moyennement satisfait,No,4,-1
+58,1,1,0,0,0,0.0,3,0,1,58,Male,Urban,Primary 1,,,Satisfait,No,0,-1
+17,1,0,2,4,0,9999.0,2,1,0,17,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,Yes,5,-1
+35,1,0,1,0,0,9999.0,2,0,2,35,Male,Rural,Primary 2,,,Moyennement satisfait,No,5,-1
+59,0,1,3,2,2,0.0,2,0,4,59,Female,Urban,Upper Secondary,BEPC/BEFM,Certifiante,Moyennement satisfait,No,0,-1
+21,1,0,2,4,0,0.0,2,0,3,21,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+56,0,1,1,0,0,0.0,3,0,4,56,Female,Urban,Primary 2,,,Satisfait,No,0,-1
+24,1,0,1,0,0,15.0,2,0,3,24,Male,Rural,Primary 2,,,Moyennement satisfait,No,2,1
+42,1,1,1,0,0,0.0,3,0,1,42,Male,Urban,Primary 2,,,Satisfait,No,3,-1
+31,1,0,2,4,0,9999.0,0,0,2,31,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Très insatisfait,No,5,-1
+23,1,1,2,4,0,0.0,2,0,1,23,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,2
+34,1,1,2,4,0,0.0,2,0,1,34,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,2
+37,1,1,6,1,0,15.0,4,0,1,37,Male,Urban,Higher Technical,CEPE/CFEE,,Très satisfait,No,1,-1
+34,0,1,2,4,0,0.0,2,0,4,34,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,-1
+31,0,0,1,0,2,0.0,1,0,4,31,Female,Rural,Primary 2,,Certifiante,Plutôt insatisfait,No,4,-1
+46,1,0,4,1,0,0.0,2,0,3,46,Male,Rural,Higher General,CEPE/CFEE,,Moyennement satisfait,No,3,-1
+18,1,1,2,4,0,0.0,2,0,1,18,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+48,1,0,0,0,0,9999.0,1,0,2,48,Male,Rural,Primary 1,,,Plutôt insatisfait,No,5,-1
+27,1,1,1,0,1,0.0,2,0,1,27,Male,Urban,Primary 2,,On-the-job,Moyennement satisfait,No,4,2
+54,0,1,0,0,0,0.0,3,0,4,54,Female,Urban,Primary 1,,,Satisfait,No,0,-1
+20,0,0,1,4,0,0.0,2,0,3,20,Female,Rural,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+56,1,1,1,0,0,0.0,2,0,1,56,Male,Urban,Primary 2,,,Moyennement satisfait,No,0,2
+34,0,1,2,4,1,0.0,2,0,4,34,Female,Urban,Lower Secondary,DEUG/DUT/BTS,On-the-job,Moyennement satisfait,No,1,-1
+21,1,0,1,0,2,0.0,1,0,3,21,Male,Rural,Primary 2,,Certifiante,Plutôt insatisfait,No,2,-1
+32,0,0,1,0,3,0.0,2,0,4,32,Female,Rural,Primary 2,,Diplômante,Moyennement satisfait,No,4,-1
+44,1,0,1,0,0,0.0,4,0,3,44,Male,Rural,Primary 2,,,Très satisfait,No,3,-1
+48,0,1,1,0,3,0.0,2,0,4,48,Female,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,0,-1
+29,1,0,4,2,0,0.0,2,0,3,29,Male,Rural,Higher General,BEPC/BEFM,,Moyennement satisfait,No,2,-1
+36,0,0,2,4,0,0.0,2,0,3,36,Female,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,-1
+60,1,0,4,2,0,0.0,3,0,3,60,Male,Rural,Higher General,BEPC/BEFM,,Satisfait,No,0,-1
+39,0,1,1,0,0,0.0,2,0,4,39,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+45,1,0,1,0,0,0.0,3,0,3,45,Male,Rural,Primary 2,,,Satisfait,No,3,-1
+25,0,0,1,0,0,0.0,1,0,3,25,Female,Rural,Primary 2,,,Plutôt insatisfait,No,4,0
+43,0,1,1,0,0,0.0,2,0,4,43,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+37,0,0,6,7,0,0.0,2,0,4,37,Female,Rural,Higher Technical,Master/DESS/DEA,,Moyennement satisfait,No,3,-1
+55,1,1,1,0,0,0.0,2,0,1,55,Male,Urban,Primary 2,,,Moyennement satisfait,No,0,2
+66,1,0,1,4,3,0.0,1,0,3,66,Male,Rural,Primary 2,DEUG/DUT/BTS,Diplômante,Plutôt insatisfait,No,0,-1
+52,0,1,1,4,0,0.0,2,0,4,52,Female,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,0,0
+69,1,1,1,4,1,0.0,2,0,1,69,Male,Urban,Primary 2,DEUG/DUT/BTS,On-the-job,Moyennement satisfait,No,0,-1
+30,0,0,1,0,0,0.0,2,0,3,30,Female,Rural,Primary 2,,,Moyennement satisfait,No,4,0
+56,0,1,1,0,0,0.0,2,0,4,56,Female,Urban,Primary 2,,,Moyennement satisfait,No,0,0
+48,0,0,1,0,0,0.0,3,0,4,48,Female,Rural,Primary 2,,,Satisfait,No,3,-1
+30,1,0,6,7,0,0.0,2,0,3,30,Male,Rural,Higher Technical,Master/DESS/DEA,,Moyennement satisfait,No,2,1
+31,1,0,1,0,3,0.0,3,0,3,31,Male,Rural,Primary 2,,Diplômante,Satisfait,No,3,-1
+30,0,0,1,0,0,0.0,1,1,0,30,Female,Rural,Primary 2,,,Plutôt insatisfait,Yes,4,-1
+67,0,1,1,4,0,0.0,2,0,4,67,Female,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,0,-1
+52,1,0,1,0,0,0.0,2,0,3,52,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+39,1,1,4,2,0,99.0,3,0,1,39,Male,Urban,Higher General,BEPC/BEFM,,Satisfait,No,1,-1
+26,0,0,6,7,2,0.0,3,0,4,26,Female,Rural,Higher Technical,Master/DESS/DEA,Certifiante,Satisfait,No,2,-1
+55,0,0,1,0,0,0.0,1,0,4,55,Female,Rural,Primary 2,,,Plutôt insatisfait,No,0,-1
+30,1,1,4,2,3,50.0,2,1,0,30,Male,Urban,Higher General,BEPC/BEFM,Diplômante,Moyennement satisfait,Yes,4,-1
+35,1,0,0,0,0,0.0,2,0,3,35,Male,Rural,Primary 1,,,Moyennement satisfait,No,3,1
+45,1,1,2,4,0,999.0,3,0,1,45,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Satisfait,No,1,-1
+28,1,0,1,0,0,0.0,2,0,3,28,Male,Rural,Primary 2,,,Moyennement satisfait,No,4,1
+22,1,1,2,4,0,0.0,2,0,1,22,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,2
+23,0,1,2,4,1,1.0,3,0,4,23,Female,Urban,Lower Secondary,DEUG/DUT/BTS,On-the-job,Satisfait,No,2,-1
+37,1,1,1,4,0,0.0,3,0,1,37,Male,Urban,Primary 2,DEUG/DUT/BTS,,Satisfait,No,1,-1
+25,1,1,2,4,3,0.0,2,0,1,25,Male,Urban,Lower Secondary,DEUG/DUT/BTS,Diplômante,Moyennement satisfait,No,2,-1
+34,1,1,4,2,0,0.0,1,0,1,34,Male,Urban,Higher General,BEPC/BEFM,,Plutôt insatisfait,No,1,-1
+47,1,0,1,0,0,0.0,2,0,3,47,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+56,1,1,1,0,1,9999.0,2,0,2,56,Male,Urban,Primary 2,,On-the-job,Moyennement satisfait,No,5,-1
+43,1,0,2,4,0,0.0,2,0,3,43,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,-1
+49,0,1,2,4,0,0.0,2,0,4,49,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,-1
+36,0,0,1,0,0,0.0,3,0,3,36,Female,Rural,Primary 2,,,Satisfait,No,4,-1
+56,1,0,0,0,1,9999.0,2,0,2,56,Male,Rural,Primary 1,,On-the-job,Moyennement satisfait,No,5,-1
+35,0,1,1,4,0,0.0,3,0,4,35,Female,Urban,Primary 2,DEUG/DUT/BTS,,Satisfait,No,4,-1
+29,0,1,4,2,0,0.0,3,0,4,29,Female,Urban,Higher General,BEPC/BEFM,,Satisfait,No,4,-1
+28,1,1,4,2,0,5.0,1,0,1,28,Male,Urban,Higher General,BEPC/BEFM,,Plutôt insatisfait,No,4,-1
+25,1,0,2,2,0,0.0,1,0,3,25,Male,Rural,Lower Secondary,BEPC/BEFM,,Plutôt insatisfait,No,2,1
+32,0,0,2,4,0,10.0,2,0,3,32,Female,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+30,0,1,1,0,0,0.0,2,0,4,30,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+32,1,0,4,2,0,6.0,3,0,3,32,Male,Rural,Higher General,BEPC/BEFM,,Satisfait,No,2,-1
+19,1,1,2,4,0,0.0,0,0,1,19,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Très insatisfait,No,2,-1
+44,0,0,1,0,0,10.0,2,0,4,44,Female,Rural,Primary 2,,,Moyennement satisfait,No,3,-1
+21,0,0,2,2,0,25.0,2,0,3,21,Female,Rural,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,No,2,-1
+45,0,1,0,0,0,0.0,3,0,4,45,Female,Urban,Primary 1,,,Satisfait,No,3,-1
+58,0,1,1,0,0,0.0,2,0,4,58,Female,Urban,Primary 2,,,Moyennement satisfait,No,0,0
+27,1,0,1,0,0,0.0,2,0,3,27,Male,Rural,Primary 2,,,Moyennement satisfait,No,4,1
+35,0,0,1,0,3,10.0,2,0,4,35,Female,Rural,Primary 2,,Diplômante,Moyennement satisfait,No,4,-1
+29,1,0,2,4,0,9999.0,2,0,2,29,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,5,-1
+36,0,1,1,0,2,0.0,1,0,4,36,Female,Urban,Primary 2,,Certifiante,Plutôt insatisfait,No,4,-1
+22,1,0,2,4,0,0.0,2,0,3,22,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+60,0,1,1,0,2,0.0,2,0,4,60,Female,Urban,Primary 2,,Certifiante,Moyennement satisfait,No,0,-1
+77,1,0,2,2,1,3.0,2,0,3,77,Male,Rural,Lower Secondary,BEPC/BEFM,On-the-job,Moyennement satisfait,No,0,-1
+22,1,1,2,4,0,9999.0,4,0,2,22,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Très satisfait,No,5,-1
+50,0,1,1,0,3,0.0,2,0,4,50,Female,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,0,-1
+15,1,0,0,0,0,0.0,2,0,3,15,Male,Rural,Primary 1,,,Moyennement satisfait,No,2,-1
+52,0,1,1,0,0,0.0,2,0,4,52,Female,Urban,Primary 2,,,Moyennement satisfait,No,0,0
+20,0,0,1,0,0,0.0,2,0,3,20,Female,Rural,Primary 2,,,Moyennement satisfait,No,4,-1
+27,0,1,4,2,0,9999.0,2,0,2,27,Female,Urban,Higher General,BEPC/BEFM,,Moyennement satisfait,No,5,-1
+55,1,0,1,4,3,0.0,1,0,3,55,Male,Rural,Primary 2,DEUG/DUT/BTS,Diplômante,Plutôt insatisfait,No,0,-1
+20,1,1,2,2,2,0.0,2,0,1,20,Male,Urban,Lower Secondary,BEPC/BEFM,Certifiante,Moyennement satisfait,No,2,-1
+33,0,1,4,2,1,9999.0,0,0,2,33,Female,Urban,Higher General,BEPC/BEFM,On-the-job,Très insatisfait,No,5,-1
+62,1,1,1,4,1,150.0,3,0,1,62,Male,Urban,Primary 2,DEUG/DUT/BTS,On-the-job,Satisfait,No,0,-1
+56,1,0,1,0,3,2.0,2,0,3,56,Male,Rural,Primary 2,,Diplômante,Moyennement satisfait,No,0,-1
+45,1,0,1,0,0,0.0,3,0,3,45,Male,Rural,Primary 2,,,Satisfait,No,3,-1
+45,1,0,4,2,0,0.0,3,0,3,45,Male,Rural,Higher General,BEPC/BEFM,,Satisfait,No,3,-1
+30,1,1,2,2,1,0.0,2,0,1,30,Male,Urban,Lower Secondary,BEPC/BEFM,On-the-job,Moyennement satisfait,No,1,2
+56,1,0,4,2,3,0.0,1,0,3,56,Male,Rural,Higher General,BEPC/BEFM,Diplômante,Plutôt insatisfait,No,0,-1
+28,0,0,1,0,3,0.0,1,0,4,28,Female,Rural,Primary 2,,Diplômante,Plutôt insatisfait,No,4,-1
+45,0,0,0,0,0,0.0,3,0,4,45,Female,Rural,Primary 1,,,Satisfait,No,3,-1
+63,1,1,1,4,1,0.0,2,0,1,63,Male,Urban,Primary 2,DEUG/DUT/BTS,On-the-job,Moyennement satisfait,No,0,-1
+54,1,1,1,0,2,0.0,1,1,0,54,Male,Urban,Primary 2,,Certifiante,Plutôt insatisfait,Yes,0,-1
+40,1,0,2,4,0,0.0,1,0,3,40,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Plutôt insatisfait,No,1,-1
+52,0,1,2,4,0,9999.0,2,0,2,52,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,5,-1
+59,1,0,7,6,2,0.0,2,0,1,59,Male,Rural,,Maîtrise,Certifiante,Moyennement satisfait,No,0,-1
+36,0,1,1,0,0,9999.0,2,0,2,36,Female,Urban,Primary 2,,,Moyennement satisfait,No,5,-1
+65,0,1,2,4,0,0.0,2,0,4,65,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,0,-1
+45,0,1,2,4,0,0.0,2,0,4,45,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,0
+36,1,1,1,0,0,0.0,2,0,1,36,Male,Urban,Primary 2,,,Moyennement satisfait,No,4,2
+17,1,0,1,0,0,0.0,3,0,3,17,Male,Rural,Primary 2,,,Satisfait,No,2,-1
+18,1,1,4,2,0,0.0,1,0,1,18,Male,Urban,Higher General,BEPC/BEFM,,Plutôt insatisfait,No,2,-1
+40,0,1,2,2,0,9999.0,2,0,2,40,Female,Urban,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,No,5,-1
+44,1,0,1,0,3,0.0,2,0,3,44,Male,Rural,Primary 2,,Diplômante,Moyennement satisfait,No,3,-1
+33,1,1,4,2,0,0.0,2,1,0,33,Male,Urban,Higher General,BEPC/BEFM,,Moyennement satisfait,Yes,1,-1
+21,0,0,2,4,0,0.0,2,0,3,21,Female,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+47,1,0,1,0,0,9999.0,2,0,2,47,Male,Rural,Primary 2,,,Moyennement satisfait,No,5,-1
+17,1,1,0,0,0,0.0,2,0,1,17,Male,Urban,Primary 1,,,Moyennement satisfait,No,2,-1
+20,0,1,2,4,0,5.0,1,0,4,20,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Plutôt insatisfait,No,2,-1
+26,0,1,4,2,0,0.0,1,1,0,26,Female,Urban,Higher General,BEPC/BEFM,,Plutôt insatisfait,Yes,4,-1
+60,1,1,1,0,0,0.0,2,0,1,60,Male,Urban,Primary 2,,,Moyennement satisfait,No,0,2
+35,1,0,1,0,0,9999.0,0,0,2,35,Male,Rural,Primary 2,,,Très insatisfait,No,5,-1
+36,0,1,1,4,0,0.0,2,0,4,36,Female,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,4,0
+20,1,0,2,4,0,0.0,2,0,3,20,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+39,1,1,1,4,0,0.0,2,0,1,39,Male,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,1,2
+25,0,0,1,0,0,0.0,2,1,0,25,Female,Rural,Primary 2,,,Moyennement satisfait,Yes,4,-1
+37,0,1,2,4,3,9999.0,2,0,2,37,Female,Urban,Lower Secondary,DEUG/DUT/BTS,Diplômante,Moyennement satisfait,No,5,-1
+31,0,1,2,4,0,0.0,2,0,4,31,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,4,-1
+35,1,1,2,4,0,0.0,2,0,1,35,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,2
+21,1,0,2,4,0,0.0,0,0,3,21,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Très insatisfait,No,2,-1
+62,1,0,1,0,0,99.0,3,0,3,62,Male,Rural,Primary 2,,,Satisfait,No,0,-1
+39,1,1,1,4,0,0.0,2,0,1,39,Male,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,1,2
+57,0,0,2,2,0,999.0,3,0,4,57,Female,Rural,Lower Secondary,BEPC/BEFM,,Satisfait,No,0,-1
+44,0,1,1,0,0,0.0,2,0,4,44,Female,Urban,Primary 2,,,Moyennement satisfait,No,3,0
+51,1,1,1,4,0,0.0,3,0,1,51,Male,Urban,Primary 2,DEUG/DUT/BTS,,Satisfait,No,0,-1
+46,1,1,1,0,0,0.0,2,0,1,46,Male,Urban,Primary 2,,,Moyennement satisfait,No,3,2
+31,1,1,0,0,0,0.0,2,0,1,31,Male,Urban,Primary 1,,,Moyennement satisfait,No,4,2
+65,1,1,1,4,0,0.0,2,0,1,65,Male,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,0,-1
+47,1,1,1,4,0,0.0,3,0,1,47,Male,Urban,Primary 2,DEUG/DUT/BTS,,Satisfait,No,1,-1
+24,0,1,1,4,0,0.0,2,1,0,24,Female,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,Yes,4,-1
+40,1,1,2,4,0,0.0,2,1,0,40,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,Yes,1,-1
+41,1,1,2,4,0,999.0,2,0,1,41,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,2
+63,1,0,1,4,3,0.0,1,0,3,63,Male,Rural,Primary 2,DEUG/DUT/BTS,Diplômante,Plutôt insatisfait,No,0,-1
+30,0,1,0,0,2,0.0,2,0,4,30,Female,Urban,Primary 1,,Certifiante,Moyennement satisfait,No,4,-1
+42,1,1,0,0,2,0.0,2,0,1,42,Male,Urban,Primary 1,,Certifiante,Moyennement satisfait,No,3,-1
+47,0,0,1,0,0,25.0,1,0,4,47,Female,Rural,Primary 2,,,Plutôt insatisfait,No,3,0
+38,0,1,1,0,0,0.0,2,0,4,38,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+45,0,1,1,0,3,0.0,2,0,4,45,Female,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,3,-1
+70,0,1,1,4,1,0.0,1,0,4,70,Female,Urban,Primary 2,DEUG/DUT/BTS,On-the-job,Plutôt insatisfait,No,0,-1
+46,1,1,1,4,0,0.0,2,0,1,46,Male,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,1,2
+53,1,1,1,0,3,9999.0,3,0,2,53,Male,Urban,Primary 2,,Diplômante,Satisfait,No,5,-1
+52,0,1,1,0,0,0.0,3,0,4,52,Female,Urban,Primary 2,,,Satisfait,No,0,-1
+24,1,1,1,4,0,9999.0,3,0,2,24,Male,Urban,Primary 2,DEUG/DUT/BTS,,Satisfait,No,5,-1
+51,1,1,0,0,0,0.0,2,0,1,51,Male,Urban,Primary 1,,,Moyennement satisfait,No,0,2
+40,0,1,1,0,2,0.0,2,0,4,40,Female,Urban,Primary 2,,Certifiante,Moyennement satisfait,No,4,-1
+28,0,0,1,0,0,0.0,1,0,3,28,Female,Rural,Primary 2,,,Plutôt insatisfait,No,4,0
+35,0,0,0,0,0,0.0,2,1,0,35,Female,Rural,Primary 1,,,Moyennement satisfait,Yes,4,-1
+28,0,0,1,0,2,0.0,1,0,4,28,Female,Rural,Primary 2,,Certifiante,Plutôt insatisfait,No,4,-1
+39,0,0,1,0,0,0.0,3,0,3,39,Female,Rural,Primary 2,,,Satisfait,No,3,-1
+53,1,0,2,2,0,0.0,2,0,3,53,Male,Rural,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,No,0,-1
+27,0,1,1,0,0,0.0,2,0,4,27,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+28,1,1,2,2,3,1.0,2,0,1,28,Male,Urban,Lower Secondary,BEPC/BEFM,Diplômante,Moyennement satisfait,No,2,-1
+19,0,0,2,4,0,0.0,2,0,3,19,Female,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+35,1,1,1,0,0,0.0,3,0,1,35,Male,Urban,Primary 2,,,Satisfait,No,4,-1
+41,1,1,1,0,3,30.0,2,0,1,41,Male,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,3,-1
+44,1,0,1,0,0,0.0,2,0,3,44,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+39,1,0,1,0,0,0.0,2,0,3,39,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+33,1,1,2,4,0,15.0,2,0,1,33,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,2
+28,0,0,1,0,0,0.0,2,0,3,28,Female,Rural,Primary 2,,,Moyennement satisfait,No,4,0
+30,1,1,1,4,0,0.0,2,0,1,30,Male,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,4,2
+45,0,1,1,0,3,0.0,2,0,4,45,Female,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,3,-1
+25,1,1,1,0,0,10.0,3,0,1,25,Male,Urban,Primary 2,,,Satisfait,No,4,-1
+59,0,0,6,1,0,0.0,3,0,4,59,Female,Rural,Higher Technical,CEPE/CFEE,,Satisfait,No,0,-1
+55,1,1,2,4,0,0.0,2,0,1,55,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,0,2
+57,1,0,1,0,0,0.0,3,0,3,57,Male,Rural,Primary 2,,,Satisfait,No,0,-1
+27,1,0,1,0,1,9999.0,2,0,2,27,Male,Rural,Primary 2,,On-the-job,Moyennement satisfait,No,5,-1
+52,1,1,6,1,0,9999.0,3,0,2,52,Male,Urban,Higher Technical,CEPE/CFEE,,Satisfait,No,5,-1
+28,1,1,6,7,0,0.0,2,1,0,28,Male,Urban,Higher Technical,Master/DESS/DEA,,Moyennement satisfait,Yes,4,-1
+41,1,1,2,4,3,3.0,2,0,1,41,Male,Urban,Lower Secondary,DEUG/DUT/BTS,Diplômante,Moyennement satisfait,No,1,-1
+38,0,1,1,0,0,0.0,2,0,4,38,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+28,1,1,7,7,2,9999.0,2,0,2,28,Male,Urban,,Master/DESS/DEA,Certifiante,Moyennement satisfait,No,5,-1
+17,1,1,0,0,3,0.0,3,0,1,17,Male,Urban,Primary 1,,Diplômante,Satisfait,No,2,-1
+49,0,1,1,4,0,9999.0,2,0,2,49,Female,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,5,-1
+38,1,1,1,0,0,0.0,2,0,1,38,Male,Urban,Primary 2,,,Moyennement satisfait,No,3,2
+34,1,1,1,4,0,9999.0,2,0,2,34,Male,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,5,-1
+35,1,1,0,0,0,0.0,2,0,1,35,Male,Urban,Primary 1,,,Moyennement satisfait,No,4,2
+40,0,0,2,4,3,20.0,2,1,0,40,Female,Rural,Lower Secondary,DEUG/DUT/BTS,Diplômante,Moyennement satisfait,Yes,1,-1
+33,0,1,4,2,0,0.0,2,0,4,33,Female,Urban,Higher General,BEPC/BEFM,,Moyennement satisfait,No,4,-1
+42,1,0,2,4,0,99.0,3,0,3,42,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Satisfait,No,1,-1
+48,1,1,2,2,0,0.0,2,0,1,48,Male,Urban,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,No,1,2
+33,0,1,1,0,0,0.0,2,0,4,33,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+30,1,1,1,4,0,0.0,2,0,1,30,Male,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,4,2
+25,1,0,1,0,3,0.0,3,0,3,25,Male,Rural,Primary 2,,Diplômante,Satisfait,No,2,-1
+64,1,0,1,0,0,0.0,2,0,3,64,Male,Rural,Primary 2,,,Moyennement satisfait,No,0,-1
+42,1,0,4,1,0,9999.0,3,0,2,42,Male,Rural,Higher General,CEPE/CFEE,,Satisfait,No,5,-1
+55,1,1,4,2,3,0.0,3,0,1,55,Male,Urban,Higher General,BEPC/BEFM,Diplômante,Satisfait,No,0,-1
+48,1,1,2,2,3,0.0,2,0,1,48,Male,Urban,Lower Secondary,BEPC/BEFM,Diplômante,Moyennement satisfait,No,1,-1
+30,1,1,1,0,0,0.0,2,0,1,30,Male,Urban,Primary 2,,,Moyennement satisfait,No,4,2
+45,0,0,1,0,3,5.0,1,0,4,45,Female,Rural,Primary 2,,Diplômante,Plutôt insatisfait,No,3,-1
+30,0,1,6,1,0,0.0,2,0,4,30,Female,Urban,Higher Technical,CEPE/CFEE,,Moyennement satisfait,No,4,-1
+41,1,0,1,0,0,0.0,2,0,3,41,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+31,0,0,1,0,0,0.0,2,0,3,31,Female,Rural,Primary 2,,,Moyennement satisfait,No,4,0
+37,0,1,1,0,0,0.0,2,1,0,37,Female,Urban,Primary 2,,,Moyennement satisfait,Yes,4,-1
+31,1,0,2,4,0,5.0,2,0,3,31,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,1
+27,1,1,2,2,0,9999.0,3,0,2,27,Male,Urban,Lower Secondary,BEPC/BEFM,,Satisfait,No,5,-1
+26,0,1,7,5,2,0.0,2,0,4,26,Female,Urban,,Licence,Certifiante,Moyennement satisfait,No,4,-1
+30,0,1,2,4,0,0.0,2,1,0,30,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,Yes,4,-1
+53,1,0,0,0,0,11.0,0,0,3,53,Male,Rural,Primary 1,,,Très insatisfait,No,0,-1
+39,1,0,1,0,0,9999.0,0,0,2,39,Male,Rural,Primary 2,,,Très insatisfait,No,5,-1
+47,0,0,0,0,0,0.0,2,0,4,47,Female,Rural,Primary 1,,,Moyennement satisfait,No,3,0
+21,0,1,2,4,0,0.0,1,1,0,21,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Plutôt insatisfait,Yes,2,-1
+27,0,0,4,2,0,0.0,3,1,0,27,Female,Rural,Higher General,BEPC/BEFM,,Satisfait,Yes,4,-1
+51,1,1,1,4,0,0.0,2,0,1,51,Male,Urban,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,0,2
+54,1,1,1,4,0,0.0,3,0,1,54,Male,Urban,Primary 2,DEUG/DUT/BTS,,Satisfait,No,0,-1
+19,1,0,2,4,2,0.0,2,0,3,19,Male,Rural,Lower Secondary,DEUG/DUT/BTS,Certifiante,Moyennement satisfait,No,2,-1
+25,0,1,1,0,3,0.0,2,0,4,25,Female,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,4,-1
+27,0,1,2,0,0,2.0,3,0,4,27,Female,Urban,Lower Secondary,,,Satisfait,No,4,-1
+40,1,1,1,0,3,9999.0,1,0,2,40,Male,Urban,Primary 2,,Diplômante,Plutôt insatisfait,No,5,-1
+27,0,1,1,0,0,0.0,2,0,4,27,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+50,1,1,1,0,0,0.0,2,1,0,50,Male,Urban,Primary 2,,,Moyennement satisfait,Yes,0,-1
+16,0,0,1,4,0,0.0,2,0,3,16,Female,Rural,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+21,1,1,4,4,3,45.0,2,0,1,21,Male,Urban,Higher General,DEUG/DUT/BTS,Diplômante,Moyennement satisfait,No,2,-1
+22,1,1,2,2,0,0.0,2,0,1,22,Male,Urban,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,No,2,-1
+26,1,1,4,2,0,9999.0,2,0,2,26,Male,Urban,Higher General,BEPC/BEFM,,Moyennement satisfait,No,5,-1
+44,1,1,1,0,0,0.0,3,0,1,44,Male,Urban,Primary 2,,,Satisfait,No,3,-1
+31,0,1,4,4,0,9999.0,2,0,2,31,Female,Urban,Higher General,DEUG/DUT/BTS,,Moyennement satisfait,No,5,-1
+39,1,1,1,4,1,0.0,2,0,1,39,Male,Urban,Primary 2,DEUG/DUT/BTS,On-the-job,Moyennement satisfait,No,1,2
+40,0,1,2,4,3,0.0,2,0,4,40,Female,Urban,Lower Secondary,DEUG/DUT/BTS,Diplômante,Moyennement satisfait,No,1,-1
+52,1,0,1,0,0,15.0,3,0,3,52,Male,Rural,Primary 2,,,Satisfait,No,3,-1
+35,0,1,4,2,0,0.0,1,0,4,35,Female,Urban,Higher General,BEPC/BEFM,,Plutôt insatisfait,No,4,-1
+36,1,0,1,0,0,0.0,2,0,3,36,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+51,0,0,1,0,0,0.0,2,0,4,51,Female,Rural,Primary 2,,,Moyennement satisfait,No,3,-1
+29,1,1,6,5,0,0.0,2,0,1,29,Male,Urban,Higher Technical,Licence,,Moyennement satisfait,No,4,2
+41,1,1,2,4,3,0.0,3,0,1,41,Male,Urban,Lower Secondary,DEUG/DUT/BTS,Diplômante,Satisfait,No,1,-1
+50,1,1,2,4,0,0.0,0,0,1,50,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Très insatisfait,No,1,-1
+65,1,1,2,4,0,9999.0,2,0,2,65,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,5,-1
+41,1,0,1,0,0,3.0,0,0,3,41,Male,Rural,Primary 2,,,Très insatisfait,No,3,-1
+39,0,1,2,0,0,3.0,3,0,4,39,Female,Urban,Lower Secondary,,,Satisfait,No,4,-1
+40,1,1,1,0,0,0.0,2,0,1,40,Male,Urban,Primary 2,,,Moyennement satisfait,No,3,2
+30,0,1,2,4,0,0.0,3,0,4,30,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Satisfait,No,4,-1
+23,1,1,1,0,0,9999.0,2,0,2,23,Male,Urban,Primary 2,,,Moyennement satisfait,No,5,-1
+25,1,0,1,0,0,0.0,3,1,0,25,Male,Rural,Primary 2,,,Satisfait,Yes,2,-1
+30,1,0,6,7,2,0.0,2,0,3,30,Male,Rural,Higher Technical,Master/DESS/DEA,Certifiante,Moyennement satisfait,No,2,-1
+49,1,1,2,4,3,0.0,2,0,1,49,Male,Urban,Lower Secondary,DEUG/DUT/BTS,Diplômante,Moyennement satisfait,No,1,-1
+45,1,0,2,4,0,10.0,3,0,3,45,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Satisfait,No,1,-1
+15,1,0,1,4,0,0.0,2,0,3,15,Male,Rural,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+30,1,0,2,0,0,0.0,2,0,3,30,Male,Rural,Lower Secondary,,,Moyennement satisfait,No,2,1
+22,1,1,6,8,0,0.0,2,0,1,22,Male,Urban,Higher Technical,Engineer,,Moyennement satisfait,No,2,-1
+48,1,0,1,0,0,0.0,2,0,3,48,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+44,0,1,2,4,0,1.0,2,0,4,44,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,0
+42,0,1,1,0,0,2.0,2,0,4,42,Female,Urban,Primary 2,,,Moyennement satisfait,No,4,0
+42,1,0,4,2,0,8000.0,2,0,2,42,Male,Rural,Higher General,BEPC/BEFM,,Moyennement satisfait,No,5,-1
+20,1,0,2,4,0,0.0,2,1,0,20,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,Yes,2,-1
+30,1,1,6,7,2,0.0,2,0,1,30,Male,Urban,Higher Technical,Master/DESS/DEA,Certifiante,Moyennement satisfait,No,4,-1
+22,1,0,0,0,3,0.0,2,0,3,22,Male,Rural,Primary 1,,Diplômante,Moyennement satisfait,No,2,-1
+35,1,0,2,2,0,1.0,3,0,3,35,Male,Rural,Lower Secondary,BEPC/BEFM,,Satisfait,No,1,-1
+56,1,1,1,0,0,0.0,2,0,1,56,Male,Urban,Primary 2,,,Moyennement satisfait,No,0,2
+36,1,1,1,0,0,9999.0,2,0,2,36,Male,Urban,Primary 2,,,Moyennement satisfait,No,5,-1
+48,0,0,1,0,3,0.0,2,0,4,48,Female,Rural,Primary 2,,Diplômante,Moyennement satisfait,No,3,-1
+39,1,1,2,2,0,0.0,2,0,1,39,Male,Urban,Lower Secondary,BEPC/BEFM,,Moyennement satisfait,No,1,2
+42,1,1,2,2,0,0.0,3,0,1,42,Male,Urban,Lower Secondary,BEPC/BEFM,,Satisfait,No,1,-1
+60,0,1,1,0,0,0.0,3,0,4,60,Female,Urban,Primary 2,,,Satisfait,No,0,-1
+50,0,1,1,0,0,0.0,2,0,4,50,Female,Urban,Primary 2,,,Moyennement satisfait,No,0,0
+30,1,0,1,0,0,50.0,3,0,3,30,Male,Rural,Primary 2,,,Satisfait,No,3,-1
+45,1,1,1,0,0,0.0,2,0,1,45,Male,Urban,Primary 2,,,Moyennement satisfait,No,3,2
+33,1,0,1,0,0,0.0,2,0,3,33,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+40,1,0,1,0,3,9999.0,3,0,2,40,Male,Rural,Primary 2,,Diplômante,Satisfait,No,5,-1
+40,1,0,1,0,0,0.0,3,0,3,40,Male,Rural,Primary 2,,,Satisfait,No,3,1
+41,1,0,1,4,3,9999.0,2,0,2,41,Male,Rural,Primary 2,DEUG/DUT/BTS,Diplômante,Moyennement satisfait,No,5,-1
+38,1,1,0,0,0,0.0,2,0,1,38,Male,Urban,Primary 1,,,Moyennement satisfait,No,1,2
+31,1,1,4,1,0,0.0,2,0,1,31,Male,Urban,Higher General,CEPE/CFEE,,Moyennement satisfait,No,4,-1
+30,1,1,4,2,0,2.0,2,0,1,30,Male,Urban,Higher General,BEPC/BEFM,,Moyennement satisfait,No,4,-1
+28,1,1,1,0,0,0.0,2,0,1,28,Male,Urban,Primary 2,,,Moyennement satisfait,No,4,2
+48,0,1,1,0,0,0.0,2,0,4,48,Female,Urban,Primary 2,,,Moyennement satisfait,No,0,0
+18,1,1,4,4,0,9999.0,0,0,2,18,Male,Urban,Higher General,DEUG/DUT/BTS,,Très insatisfait,No,5,-1
+52,1,0,1,0,1,50.0,2,0,3,52,Male,Rural,Primary 2,,On-the-job,Moyennement satisfait,No,3,1
+32,1,1,0,0,3,0.0,1,0,1,32,Male,Urban,Primary 1,,Diplômante,Plutôt insatisfait,No,4,2
+30,1,0,1,0,2,0.0,2,0,3,30,Male,Rural,Primary 2,,Certifiante,Moyennement satisfait,No,3,-1
+40,1,0,1,0,2,0.0,1,0,3,40,Male,Rural,Primary 2,,Certifiante,Plutôt insatisfait,No,3,-1
+35,1,1,1,0,0,0.0,2,0,1,35,Male,Urban,Primary 2,,,Moyennement satisfait,No,4,2
+37,1,1,2,2,1,0.0,2,0,1,37,Male,Urban,Lower Secondary,BEPC/BEFM,On-the-job,Moyennement satisfait,No,1,-1
+34,1,1,1,0,0,0.0,1,0,1,34,Male,Urban,Primary 2,,,Plutôt insatisfait,No,4,2
+44,0,1,1,0,0,0.0,2,0,4,44,Female,Urban,Primary 2,,,Moyennement satisfait,No,3,0
+50,0,1,1,0,0,0.0,3,0,4,50,Female,Urban,Primary 2,,,Satisfait,No,0,-1
+25,0,1,2,4,0,0.0,2,0,4,25,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,2,-1
+42,0,1,1,0,3,0.0,2,0,4,42,Female,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,4,-1
+40,1,0,1,0,0,5.0,2,0,3,40,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+51,1,1,1,0,0,9999.0,2,0,2,51,Male,Urban,Primary 2,,,Moyennement satisfait,No,5,-1
+45,1,0,1,0,0,4.0,3,0,3,45,Male,Rural,Primary 2,,,Satisfait,No,3,-1
+51,1,0,1,0,0,0.0,2,0,3,51,Male,Rural,Primary 2,,,Moyennement satisfait,No,3,1
+48,0,1,2,4,0,0.0,2,0,4,48,Female,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,-1
+42,1,0,2,2,3,999.0,3,0,3,42,Male,Rural,Lower Secondary,BEPC/BEFM,Diplômante,Satisfait,No,3,-1
+34,1,0,1,0,0,1.0,3,0,3,34,Male,Rural,Primary 2,,,Satisfait,No,3,-1
+61,1,0,0,0,0,179.0,2,0,3,61,Male,Rural,Primary 1,,,Moyennement satisfait,No,0,1
+41,1,1,1,0,2,0.0,2,0,1,41,Male,Urban,Primary 2,,Certifiante,Moyennement satisfait,No,3,-1
+22,1,1,1,0,0,9999.0,0,0,2,22,Male,Urban,Primary 2,,,Très insatisfait,No,5,-1
+45,0,1,4,2,0,0.0,2,0,4,45,Female,Urban,Higher General,BEPC/BEFM,,Moyennement satisfait,No,1,-1
+41,1,1,1,0,3,3.0,2,0,1,41,Male,Urban,Primary 2,,Diplômante,Moyennement satisfait,No,3,-1
+59,0,1,4,2,0,0.0,3,0,4,59,Female,Urban,Higher General,BEPC/BEFM,,Satisfait,No,0,-1
+32,0,1,4,2,0,0.0,2,0,4,32,Female,Urban,Higher General,BEPC/BEFM,,Moyennement satisfait,No,4,-1
+40,1,0,2,4,0,0.0,2,0,3,40,Male,Rural,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,1
+26,1,0,4,2,0,0.0,2,0,3,26,Male,Rural,Higher General,BEPC/BEFM,,Moyennement satisfait,No,2,-1
+42,1,1,1,4,0,0.0,3,0,1,42,Male,Urban,Primary 2,DEUG/DUT/BTS,,Satisfait,No,1,-1
+16,1,1,1,0,0,0.0,1,0,1,16,Male,Urban,Primary 2,,,Plutôt insatisfait,No,4,0
+35,0,1,4,2,0,9999.0,2,0,2,35,Female,Urban,Higher General,BEPC/BEFM,,Moyennement satisfait,No,5,-1
+25,0,0,1,4,0,0.0,2,0,3,25,Female,Rural,Primary 2,DEUG/DUT/BTS,,Moyennement satisfait,No,2,0
+39,1,1,2,4,0,0.0,2,0,1,39,Male,Urban,Lower Secondary,DEUG/DUT/BTS,,Moyennement satisfait,No,1,2
+44,0,0,1,0,3,0.0,2,0,4,44,Female,Rural,Primary 2,,Diplômante,Moyennement satisfait,No,3,-1
+34,1,1,6,0,0,0.0,2,1,0,34,Male,Urban,Higher Technical,,,Moyennement satisfait,Yes,4,-1
+41,1,0,1,0,0,0.0,3,1,0,41,Male,Rural,Primary 2,,,Satisfait,Yes,3,-1
+26,0,1,4,2,0,0.0,2,0,4,26,Female,Urban,Higher General,BEPC/BEFM,,Moyennement satisfait,No,4,-1
